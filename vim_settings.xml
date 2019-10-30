@@ -1,0 +1,255 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/spiders/wix_spider.py" timestamp="1566127351838">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1566136992593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1566303392896">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1563204732047">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1566301940057">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
+      <file name="/fragment.py" timestamp="1566120013482">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/nvda/source/aria.py" timestamp="1572430145443" />
+      <file name="/a.dummy" timestamp="1566303256815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" timestamp="1564665087345">
+        <mark key="'" line="21" column="19" />
+        <mark key="i" line="10" column="27" />
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="68" />
+        <mark key="^" line="21" column="68" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" timestamp="1563264852574">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+      </file>
+      <file name="/wix_spider" timestamp="1563285111747">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" timestamp="1571212565288">
+        <mark key="'" line="97" column="50" />
+        <mark key="[" line="61" column="64" />
+        <mark key="]" line="61" column="83" />
+        <mark key="." line="61" column="83" />
+        <mark key="^" line="61" column="83" />
+      </file>
+      <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/spiders/parse_input_script.py" timestamp="1566127858597">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="73" />
+        <mark key="." line="8" column="73" />
+        <mark key="^" line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1566890966638">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/crawler.py" timestamp="1566300116573">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/playground.py" timestamp="1563204221707">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/pyPlayground/playground.py" timestamp="1563194137885">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/evinced/nvda/source/controlTypes.py" timestamp="1572361323056">
+        <mark key="[" line="442" column="0" />
+        <mark key="]" line="442" column="0" />
+        <mark key="." line="442" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list_imdb.py" timestamp="1566303458270">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/playground.py" timestamp="1563283569779">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/pipelines.py" timestamp="1566127606496">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/playground.py" />
+      <jump line="29" column="11" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="59" column="41" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="46" column="22" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" />
+      <jump line="25" column="24" filename="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" />
+      <jump line="7" column="38" filename="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="13" column="22" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="11" column="30" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="78" column="3" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="40" column="32" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="63" column="15" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="43" column="40" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="85" column="32" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="71" column="37" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="9" column="40" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="52" column="35" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="25" column="27" filename="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/spiders/wix_spider.py" />
+      <jump line="16" column="3" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
+      <jump line="6" column="8" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
+      <jump line="68" column="35" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="69" column="50" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="62" column="17" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="97" column="50" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/pyPlayground/image_tester.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSMgVHJhbnNsYXRvcnM6IElkZW50aWZpZXMgYSBmaWxlIGNob29zZXIgKHRvIHNlbGVjdCBhIGZpbGUgb3IgZ3JvdXBzIG9mIGZpbGVzIGZyb20gYSBsaXN0KS4KCVJPTEVfRklMRUNIT09TRVI6XygiZmlsZSBjaG9vc2VyIiksCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>1</text>
+      </register>
+      <register name="0" type="4">
+        <text>e['pagescreenshotPath']</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CSMgVHJhbnNsYXRvcnM6IElkZW50aWZpZXMgYSBmaWxlIGNob29zZXIgKHRvIHNlbGVjdCBhIGZpbGUgb3IgZ3JvdXBzIG9mIGZpbGVzIGZyb20gYSBsaXN0KS4KCVJPTEVfRklMRUNIT09TRVI6XygiZmlsZSBjaG9vc2VyIiksCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpbmRleCA9PSAwOgogICAgICAgICAgICByZXR1cm4gJzAnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IGN2MgoKCklNR19QQVRIID0gJy9Vc2Vycy9kb3JodWdpL2V2aW5jZWQvc2NyYXBlcnMvanMvdGFnLWZpbmRlci9yZXNvdXJjZXMvb3V0cHV0LzE1XzZfMjAxOV8xNV8yNl81MC9yZXZzb3VyY2UuY28uanBnJwoKCmFzc2VydCBvcy5wYXRoLmlzZmlsZShJTUdfUEFUSCkKCmltZyA9IGN2Mi5pbXJlYWQoSU1HX1BBVEgpCgp4ID0gODI3CnkgPSAxNDM4CnhfbWF4ID0gOTczCnlfbWF4ID0gMTQ3OQoKdyA9IHhfbWF4IC0geApoID0geV9tYXggLSB5Cgpjcm9wX2ltZyA9IGltZ1t5OnkraCwgeDp4K3ddCmN2Mi5pbXNob3coIkltYWdlIiwgY3JvcF9pbWcpCmN2Mi53YWl0S2V5KDApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnSGFuZGxpbmcgZmlsZTonKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShpbWdfb3V0X3BhdGgpOiAgIyBOb3RlIHRvIG15c2VsZiAtIHRoaXMgaGFzIHBvb3IgcGVyZm9ybWFuY2UsIGl0J3MgYmV0dGVyIHRvIGRvIHRoaXMgb25jZSBmb3IgYWxsIGltYWdlcwogICAgICAgICAgICAgICAgICAgIHByaW50KCdDb3B5aW5nIGZyb206JywgaW1nX2Z1bGxfcGF0aCwgJ3RvOicsIGltZ19vdXRfcGF0aCkKICAgICAgICAgICAgICAgICAgICBzaHV0aWwuY29weWZpbGUoaW1nX2Z1bGxfcGF0aCwgaW1nX291dF9wYXRoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjcmVhdGVfaW1hZ2VzOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1cmwgPSBsaW5lLnNwbGl0KCcsJylbMV0KICAgICAgICBmb3IgdSBpbiB1cmwuc3BsaXQoJzsnKToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBJTlBVVF9ESVIgPSAnL1VzZXJzL2Rvcmh1Z2kvZXZpbmNlZC9zY3JhcGVycy9qcy90YWctZmluZGVyL3Jlc291cmNlcy9vdXRwdXQvMThfNl8yMDE5XzE0XzQxXzI3Jwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">anNvbi5kdW1wCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wa</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>1</last-search>
+      <last-pattern>1</last-pattern>
+      <last-replace>0</last-replace>
+      <last-substitute>1</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>0</entry>
+        <entry>1</entry>
+      </history-search>
+      <history-cmd>
+        <entry>e</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>s/0/1/g</entry>
+        <entry>s/1/0/g</entry>
+        <entry>ww</entry>
+        <entry>.,.+1W</entry>
+        <entry>׳</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
