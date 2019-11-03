@@ -16,10 +16,11 @@
       <file name="/Python Console" timestamp="1566303392896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1563204732047">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1572779370936">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1566301940057">
         <mark key="[" line="4" column="14" />
@@ -30,13 +31,13 @@
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572775949297">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572779727385">
+        <mark key="[" line="17" column="97" />
+        <mark key="]" line="17" column="103" />
+        <mark key="." line="17" column="103" />
+        <mark key="^" line="17" column="103" />
       </file>
-      <file name="/a.dummy" timestamp="1566303256815">
+      <file name="/a.dummy" timestamp="1572778396198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" timestamp="1564665087345">
@@ -175,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXhfbWV0YSA9IHJlc3BvbnNlLnhwYXRoKCcvL2hlYWQvbWV0YVtAbmFtZT0iZ2VuZXJhdG9yIl0nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>wix_meta.attrib.get('content') and 'Wix.com' in wix_meta.attrib.get('content')</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -187,31 +188,31 @@
         <text>e['pagescreenshotPath']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXhfbWV0YSA9IHJlc3BvbnNlLnhwYXRoKCcvL2hlYWQvbWV0YVtAbmFtZT0iZ2VuZXJhdG9yIl0nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50JykgYW5kICdXaXguY29tJyBpbiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50Jyk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjcmFweQppbXBvcnQgdXRpbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSMgVHJhbnNsYXRvcnM6IElkZW50aWZpZXMgYSBmaWxlIGNob29zZXIgKHRvIHNlbGVjdCBhIGZpbGUgb3IgZ3JvdXBzIG9mIGZpbGVzIGZyb20gYSBsaXN0KS4KCVJPTEVfRklMRUNIT09TRVI6XygiZmlsZSBjaG9vc2VyIiksCg==</text>
+        <text encoding="base64">IyBUT0RPOiBDaGFuZ2UgaXQgdG8gY29tbWFuZCBsaW5lIGFyZ3VtZW50cyAob3IgYXQgbGVhc3QgYWRkIHRoZSBvcHRpb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbmRleCA9PSAwOgogICAgICAgICAgICByZXR1cm4gJzAnCg==</text>
+        <text encoding="base64">SU5QVVRfVVJMUyA9ICcuLi9yZXNvdXJjZXMvd2l4X2lucHV0Lmpzb24nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IGN2MgoKCklNR19QQVRIID0gJy9Vc2Vycy9kb3JodWdpL2V2aW5jZWQvc2NyYXBlcnMvanMvdGFnLWZpbmRlci9yZXNvdXJjZXMvb3V0cHV0LzE1XzZfMjAxOV8xNV8yNl81MC9yZXZzb3VyY2UuY28uanBnJwoKCmFzc2VydCBvcy5wYXRoLmlzZmlsZShJTUdfUEFUSCkKCmltZyA9IGN2Mi5pbXJlYWQoSU1HX1BBVEgpCgp4ID0gODI3CnkgPSAxNDM4CnhfbWF4ID0gOTczCnlfbWF4ID0gMTQ3OQoKdyA9IHhfbWF4IC0geApoID0geV9tYXggLSB5Cgpjcm9wX2ltZyA9IGltZ1t5OnkraCwgeDp4K3ddCmN2Mi5pbXNob3coIkltYWdlIiwgY3JvcF9pbWcpCmN2Mi53YWl0S2V5KDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSGFuZGxpbmcgZmlsZTonKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -237,9 +238,9 @@
         <entry>s/1/0/g</entry>
         <entry>ww</entry>
         <entry>.,.+1W</entry>
-        <entry>W</entry>
         <entry>wa</entry>
         <entry>׳</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
