@@ -94,12 +94,12 @@
       <file name="/Dummy.txt" timestamp="1566136992593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572790942884">
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572796314647">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="36" column="36" />
-        <mark key="." line="36" column="36" />
-        <mark key="^" line="36" column="36" />
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" timestamp="1572790741058">
         <mark key="'" line="4262" column="11" />
@@ -218,16 +218,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTA==</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>'scrapy-logs/{}.txt'.format(timestr)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIGlzX3dpeCBvciBpbmRpcmVjdGlvbl9sZXZlbCA8PSBNQVhfSU5ESVJFQ1RJT05fTEVWRUw6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KHAuZ2V0dXJsKCkpCg==</text>
@@ -257,7 +257,7 @@
         <text encoding="base64">IyBjb25maWd1cmVfbG9nZ2luZyhpbnN0YWxsX3Jvb3RfaGFuZGxlcj1GYWxzZSkKIyBsb2dnaW5nLmJhc2ljQ29uZmlnKAojIGZpbGVuYW1lPSdzY3JhcHktbG9ncy97fS50eHQnLmZvcm1hdCh0aW1lc3RyKSwKIyAgICAgZmlsZW1vZGUgPSAndycsCiMgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpczogJShtZXNzYWdlKXMnLAojICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHCiMgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -282,8 +282,8 @@
         <entry>.,.+1W</entry>
         <entry>׳</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
