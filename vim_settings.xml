@@ -10,13 +10,10 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566136992593">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1566303392896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1572779370936">
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1572781600810">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -31,29 +28,8 @@
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572780711220">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="81" />
-        <mark key="." line="23" column="81" />
-        <mark key="^" line="23" column="81" />
-      </file>
       <file name="/a.dummy" timestamp="1572778396198">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/personalSnippets/whatsappSender/whatsappSender.py" timestamp="1564665087345">
-        <mark key="'" line="21" column="19" />
-        <mark key="i" line="10" column="27" />
-        <mark key="[" line="21" column="61" />
-        <mark key="]" line="21" column="68" />
-        <mark key="." line="21" column="68" />
-        <mark key="^" line="21" column="68" />
-      </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" timestamp="1563264852574">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="24" />
-        <mark key="^" line="26" column="24" />
-        <mark key="." line="26" column="24" />
       </file>
       <file name="/wix_spider" timestamp="1563285111747">
         <mark key="[" line="0" column="0" />
@@ -71,14 +47,59 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1566890966638">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/10_seed_based_wix_input.json" timestamp="1572781424329">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="47" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/crawler.py" timestamp="1566300116573">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/1_seed_based_wix_input.json" timestamp="1572781949284">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/__init__.py" timestamp="1572781747851">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list_imdb.py" timestamp="1566303458270">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/pipelines.py" timestamp="1566127606496">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1566136992593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572781860829">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="10" column="57" />
+        <mark key="." line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" timestamp="1572783274245">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1566890966638">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -105,35 +126,23 @@
         <mark key="]" line="442" column="0" />
         <mark key="." line="442" column="0" />
       </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/11_seed_based_wix_input.json" timestamp="1572782353745" />
       <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list_imdb.py" timestamp="1566303458270">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-      </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/playground.py" timestamp="1563283569779">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/pipelines.py" timestamp="1566127606496">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="33" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="13" column="33" />
       </file>
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/playground.py" />
       <jump line="29" column="11" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
       <jump line="59" column="41" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
       <jump line="34" column="8" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
       <jump line="8" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
       <jump line="46" column="22" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
@@ -173,40 +182,46 @@
       <jump line="49" column="0" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
       <jump line="97" column="50" filename="$USER_HOME$/evinced/myPyUtils/modify_scrapper_dir.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/pyPlayground/image_tester.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="13" column="38" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="13" column="23" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>'/tmp/scrapy_output.txt'</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="4">
-        <text>e['pagescreenshotPath']</text>
+        <text>'scrapy-logs/{}.txt'.format(timestr)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGhhc193aXhfbWV0YTogIyBubyBuZWVkIHRvIHJ1biBtb3JlIAogICAgICAgIHJldHVybiBUcnVlICAgIAo=</text>
+        <text encoding="base64">IyBpbXBvcnQgb3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGhhc193aXhfbWV0YToK</text>
+        <text encoding="base64">IyBjb25maWd1cmVfbG9nZ2luZyhpbnN0YWxsX3Jvb3RfaGFuZGxlcj1GYWxzZSkKIyBsb2dnaW5nLmJhc2ljQ29uZmlnKAojIGZpbGVuYW1lPSdzY3JhcHktbG9ncy97fS50eHQnLmZvcm1hdCh0aW1lc3RyKSwKIyAgICAgZmlsZW1vZGUgPSAndycsCiMgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpczogJShtZXNzYWdlKXMnLAojICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHCiMgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V0lYX0hPU1ROQU1FUyA9IFtdCg==</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkudXRpbHMubG9nIGltcG9ydCBjb25maWd1cmVfbG9nZ2luZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXhfbWV0YSA9IHJlc3BvbnNlLnhwYXRoKCcvL2hlYWQvbWV0YVtAbmFtZT0iZ2VuZXJhdG9yIl0nKQo=</text>
+        <text encoding="base64">bG9nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50JykgYW5kICdXaXguY29tJyBpbiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50Jyk6Cg==</text>
+        <text encoding="base64">aWYgbm90Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRpbWVzdHI9dGltZS5zdHJmdGltZSgiJVklbSVkLSVIJU0lUyIpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -238,9 +253,9 @@
         <entry>s/1/0/g</entry>
         <entry>ww</entry>
         <entry>.,.+1W</entry>
-        <entry>wa</entry>
         <entry>׳</entry>
         <entry>W</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -255,6 +270,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
