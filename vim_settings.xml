@@ -28,8 +28,14 @@
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" timestamp="1572790728155">
+        <mark key="'" line="35" column="88" />
+      </file>
       <file name="/a.dummy" timestamp="1572778396198">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" timestamp="1572789674621">
+        <mark key="'" line="16323" column="101" />
       </file>
       <file name="/wix_spider" timestamp="1563285111747">
         <mark key="[" line="0" column="0" />
@@ -85,19 +91,22 @@
       <file name="/Dummy.txt" timestamp="1566136992593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572785941268">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="6" column="46" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572790942884">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" timestamp="1572785790750">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-        <mark key="^" line="4" column="39" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" timestamp="1572790741058">
+        <mark key="'" line="4262" column="11" />
+      </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" timestamp="1572790983487">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1566890966638">
         <mark key="[" line="0" column="0" />
@@ -190,13 +199,21 @@
       <jump line="24" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
       <jump line="29" column="4" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
       <jump line="33" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="51205" column="21" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
+      <jump line="76" column="117" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" />
+      <jump line="16323" column="101" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" />
+      <jump line="635" column="81" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" />
+      <jump line="61571" column="49" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" />
+      <jump line="65876" column="25" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" />
+      <jump line="35" column="88" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" />
+      <jump line="4262" column="11" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1_seed_based_wix_input</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>1_seed_based_wix_input</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -205,31 +222,31 @@
         <text>'scrapy-logs/{}.txt'.format(timestr)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHAuZ2V0dXJsKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgTE9HX0ZJTEU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBpbXBvcnQgb3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnU2NyYXBwaW5nIHNpdGUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjb25maWd1cmVfbG9nZ2luZyhpbnN0YWxsX3Jvb3RfaGFuZGxlcj1GYWxzZSkKIyBsb2dnaW5nLmJhc2ljQ29uZmlnKAojIGZpbGVuYW1lPSdzY3JhcHktbG9ncy97fS50eHQnLmZvcm1hdCh0aW1lc3RyKSwKIyAgICAgZmlsZW1vZGUgPSAndycsCiMgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpczogJShtZXNzYWdlKXMnLAojICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHCiMgKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkudXRpbHMubG9nIGltcG9ydCBjb25maWd1cmVfbG9nZ2luZwo=</text>
+        <text encoding="base64">aWYgTE9HX0ZJTEU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nCg==</text>
+        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgbm90Cg==</text>
+        <text encoding="base64">IyBpbXBvcnQgb3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdHI9dGltZS5zdHJmdGltZSgiJVklbSVkLSVIJU0lUyIpCg==</text>
+        <text encoding="base64">IyBjb25maWd1cmVfbG9nZ2luZyhpbnN0YWxsX3Jvb3RfaGFuZGxlcj1GYWxzZSkKIyBsb2dnaW5nLmJhc2ljQ29uZmlnKAojIGZpbGVuYW1lPSdzY3JhcHktbG9ncy97fS50eHQnLmZvcm1hdCh0aW1lc3RyKSwKIyAgICAgZmlsZW1vZGUgPSAndycsCiMgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpczogJShtZXNzYWdlKXMnLAojICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHCiMgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -256,8 +273,8 @@
         <entry>ww</entry>
         <entry>.,.+1W</entry>
         <entry>׳</entry>
-        <entry>wa</entry>
         <entry>W</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
