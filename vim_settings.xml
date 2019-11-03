@@ -31,11 +31,11 @@
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572779727385">
-        <mark key="[" line="17" column="97" />
-        <mark key="]" line="17" column="103" />
-        <mark key="." line="17" column="103" />
-        <mark key="^" line="17" column="103" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572780711220">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="81" />
+        <mark key="." line="23" column="81" />
+        <mark key="^" line="23" column="81" />
       </file>
       <file name="/a.dummy" timestamp="1572778396198">
         <mark key="[" line="0" column="0" />
@@ -176,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXhfbWV0YSA9IHJlc3BvbnNlLnhwYXRoKCcvL2hlYWQvbWV0YVtAbmFtZT0iZ2VuZXJhdG9yIl0nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>wix_meta.attrib.get('content') and 'Wix.com' in wix_meta.attrib.get('content')</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -188,25 +188,25 @@
         <text>e['pagescreenshotPath']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXhfbWV0YSA9IHJlc3BvbnNlLnhwYXRoKCcvL2hlYWQvbWV0YVtAbmFtZT0iZ2VuZXJhdG9yIl0nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50JykgYW5kICdXaXguY29tJyBpbiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50Jyk6Cg==</text>
+        <text encoding="base64">ICAgIGlmIGhhc193aXhfbWV0YTogIyBubyBuZWVkIHRvIHJ1biBtb3JlIAogICAgICAgIHJldHVybiBUcnVlICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIGhhc193aXhfbWV0YToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0lYX0hPU1ROQU1FUyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXhfbWV0YSA9IHJlc3BvbnNlLnhwYXRoKCcvL2hlYWQvbWV0YVtAbmFtZT0iZ2VuZXJhdG9yIl0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUT0RPOiBDaGFuZ2UgaXQgdG8gY29tbWFuZCBsaW5lIGFyZ3VtZW50cyAob3IgYXQgbGVhc3QgYWRkIHRoZSBvcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50JykgYW5kICdXaXguY29tJyBpbiB3aXhfbWV0YS5hdHRyaWIuZ2V0KCdjb250ZW50Jyk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SU5QVVRfVVJMUyA9ICcuLi9yZXNvdXJjZXMvd2l4X2lucHV0Lmpzb24nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
