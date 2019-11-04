@@ -101,8 +101,8 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" timestamp="1572790741058">
-        <mark key="'" line="4262" column="11" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" timestamp="1572859798326">
+        <mark key="'" line="99447" column="22" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" timestamp="1572790983487">
         <mark key="'" line="34" column="4" />
@@ -215,6 +215,7 @@
       <jump line="49814" column="41" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="49823" column="72" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="49559" column="52" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
+      <jump line="99447" column="22" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
