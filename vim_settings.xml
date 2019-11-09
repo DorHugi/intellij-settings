@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" timestamp="1572790728155">
         <mark key="'" line="35" column="88" />
       </file>
-      <file name="/a.dummy" timestamp="1572778396198">
+      <file name="/a.dummy" timestamp="1573338472497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" timestamp="1572789674621">
@@ -64,6 +64,9 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/transform_scrapper_to_tagger_input_format.py" timestamp="1573338466450">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/1_seed_based_wix_input.json" timestamp="1572781949284">
         <mark key="[" line="1" column="45" />
@@ -139,12 +142,17 @@
         <mark key="]" line="442" column="0" />
         <mark key="." line="442" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/11_seed_based_wix_input.json" timestamp="1572782353745" />
       <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/evinced/myPyUtils/scrapper_to_tagger_formatter.py" timestamp="1573339320927">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="24" column="35" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/playground.py" timestamp="1563283569779">
         <mark key="[" line="6" column="0" />
@@ -218,8 +226,8 @@
       <jump line="99447" column="22" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTA==</text>
@@ -231,34 +239,34 @@
         <text encoding="base64">ICAgICAgICAjIGlmIGlzX3dpeCBvciBpbmRpcmVjdGlvbl9sZXZlbCA8PSBNQVhfSU5ESVJFQ1RJT05fTEVWRUw6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHAuZ2V0dXJsKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFyc2VkX2RhdGEgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFyc2VkX2RhdGEgPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnU2NyYXBwaW5nIHNpdGUnKQo=</text>
+        <text encoding="base64">Zm9yIGxpbmUgaW4gcGFyc2VkX2RhdGE6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHAuZ2V0dXJsKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgTE9HX0ZJTEU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpbXBvcnQgb3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnU2NyYXBwaW5nIHNpdGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjb25maWd1cmVfbG9nZ2luZyhpbnN0YWxsX3Jvb3RfaGFuZGxlcj1GYWxzZSkKIyBsb2dnaW5nLmJhc2ljQ29uZmlnKAojIGZpbGVuYW1lPSdzY3JhcHktbG9ncy97fS50eHQnLmZvcm1hdCh0aW1lc3RyKSwKIyAgICAgZmlsZW1vZGUgPSAndycsCiMgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpczogJShtZXNzYWdlKXMnLAojICAgICBsZXZlbD1sb2dnaW5nLkRFQlVHCiMgKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -283,8 +291,8 @@
         <entry>.,.+1W</entry>
         <entry>׳</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
