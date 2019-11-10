@@ -160,11 +160,11 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/evinced/kuber-tagger/temp_job_template.yaml" timestamp="1573396066790">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="23" />
+      <file name="$USER_HOME$/evinced/kuber-tagger/temp_job_template.yaml" timestamp="1573399425500">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="51" />
         <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+        <mark key="." line="15" column="51" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/playground.py" timestamp="1563283569779">
         <mark key="[" line="6" column="0" />
