@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" timestamp="1572790728155">
         <mark key="'" line="35" column="88" />
       </file>
-      <file name="/a.dummy" timestamp="1573338472497">
+      <file name="/a.dummy" timestamp="1573386973560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" timestamp="1572789674621">
@@ -142,6 +142,12 @@
         <mark key="]" line="442" column="0" />
         <mark key="." line="442" column="0" />
       </file>
+      <file name="$USER_HOME$/evinced/kuber-tagger/create_jobs_from_template.py" timestamp="1573388072778">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="14" />
@@ -154,10 +160,23 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
+      <file name="$USER_HOME$/evinced/kuber-tagger/temp_job_template.yaml" timestamp="1573388556436">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="50" />
+      </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/playground.py" timestamp="1563283569779">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/kuber-tagger/src/create_jobs_from_template.py" timestamp="1573387615979">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -224,13 +243,14 @@
       <jump line="49823" column="72" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="49559" column="52" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="99447" column="22" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
+      <jump line="14" column="29" filename="$USER_HOME$/evinced/kuber-tagger/src/create_jobs_from_template.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>amen</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTA==</text>
+        <text>amen</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -239,31 +259,31 @@
         <text encoding="base64">ICAgICAgICAjIGlmIGlzX3dpeCBvciBpbmRpcmVjdGlvbl9sZXZlbCA8PSBNQVhfSU5ESVJFQ1RJT05fTEVWRUw6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfaWR4ID0gVVJMU19QRVJfSk9CICogam9iX251bQogICAgICAgICAgICByZXBsYWNlX2RpY3QgPSB7JyRTVEFSVF9JTkRFWCc6IHN0YXJ0X2lkeCwgJyRTQ1JBUEVfVE9UQUwnOiBVUkxTX1BFUl9KT0J9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFyc2VkX2RhdGEgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZV9kaWN0ID0geycnfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFyc2VkX2RhdGEgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIGxpbmUgaW4gcGFyc2VkX2RhdGE6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHAuZ2V0dXJsKCkpCg==</text>
+        <text encoding="base64">cGFyc2VkX2RhdGEgPSBOb25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFyc2VkX2RhdGEgPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGxpbmUgaW4gcGFyc2VkX2RhdGE6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnU2NyYXBwaW5nIHNpdGUnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHAuZ2V0dXJsKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -290,6 +310,7 @@
         <entry>ww</entry>
         <entry>.,.+1W</entry>
         <entry>׳</entry>
+        <entry>vsp</entry>
         <entry>W</entry>
         <entry>wa</entry>
         <entry>w</entry>
