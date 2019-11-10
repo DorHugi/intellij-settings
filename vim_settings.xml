@@ -160,11 +160,11 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/evinced/kuber-tagger/temp_job_template.yaml" timestamp="1573388556436">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="15" column="50" />
+      <file name="$USER_HOME$/evinced/kuber-tagger/temp_job_template.yaml" timestamp="1573391181693">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="19" column="21" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/playground.py" timestamp="1563283569779">
         <mark key="[" line="6" column="0" />
@@ -247,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>amen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>amen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
