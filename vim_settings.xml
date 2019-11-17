@@ -159,9 +159,9 @@
         <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/window/__init__.py" timestamp="1573988377347" />
-      <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" timestamp="1573990944734">
+      <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" timestamp="1573993917650">
         <mark key="a" line="1471" column="15" />
-        <mark key="'" line="1288" column="8" />
+        <mark key="'" line="603" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/pyPlayground/playground.py" timestamp="1563194137885">
         <mark key="[" line="22" column="14" />
@@ -297,6 +297,8 @@
       <jump line="121" column="62" filename="$USER_HOME$/evinced/nvda/source/browseMode.py" />
       <jump line="258" column="29" filename="$USER_HOME$/evinced/nvda/source/browseMode.py" />
       <jump line="1288" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
+      <jump line="1611" column="45" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
+      <jump line="603" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
