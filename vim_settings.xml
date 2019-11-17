@@ -307,7 +307,7 @@
         <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -333,8 +333,8 @@
         <entry>׳</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
