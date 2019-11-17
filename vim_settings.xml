@@ -31,7 +31,6 @@
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" timestamp="1572790728155">
         <mark key="'" line="35" column="88" />
       </file>
-      <file name="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" timestamp="1573654121244" />
       <file name="/a.dummy" timestamp="1573386973560">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,11 +151,6 @@
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
-      </file>
-      <file name="$USER_HOME$/evinced/nvda/source/controlTypes.py" timestamp="1572361323056">
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="442" column="0" />
-        <mark key="." line="442" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/kuber-tagger/create_jobs_from_template.py" timestamp="1573394341876">
         <mark key="[" line="7" column="13" />
