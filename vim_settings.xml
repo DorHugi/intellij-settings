@@ -31,8 +31,9 @@
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" timestamp="1572790728155">
         <mark key="'" line="35" column="88" />
       </file>
-      <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" timestamp="1573987144458">
+      <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" timestamp="1573987907686">
         <mark key="a" line="975" column="12" />
+        <mark key="t" line="409" column="15" />
         <mark key="'" line="156" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1573386973560">
@@ -169,6 +170,9 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/evinced/nvda/source/appModules/miranda32.py" timestamp="1573988045593">
+        <mark key="'" line="190" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="14" />
@@ -276,6 +280,7 @@
       <jump line="1475" column="0" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
       <jump line="975" column="12" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" />
       <jump line="156" column="0" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" />
+      <jump line="190" column="53" filename="$USER_HOME$/evinced/nvda/source/appModules/miranda32.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
