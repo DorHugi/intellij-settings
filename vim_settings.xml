@@ -10,8 +10,11 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" timestamp="1574153362985" />
-      <file name="/Python Console" timestamp="1566303392896">
+      <file name="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" timestamp="1574156782552">
+        <mark key="a" line="1829" column="12" />
+        <mark key="'" line="569" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1574156570508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1572781600810">
@@ -138,12 +141,12 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1574153021148">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1574156528095">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -300,6 +303,7 @@
       <jump line="1611" column="45" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
       <jump line="603" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
       <jump line="3" column="0" filename="$USER_HOME$/evinced/myPyUtils/playground.py" />
+      <jump line="569" column="9" filename="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,7 +346,7 @@
         <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -360,16 +364,16 @@
       </history-search>
       <history-cmd>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>s/0/1/g</entry>
         <entry>s/1/0/g</entry>
         <entry>ww</entry>
         <entry>.,.+1W</entry>
         <entry>׳</entry>
-        <entry>vsp</entry>
         <entry>W</entry>
         <entry>wa</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
