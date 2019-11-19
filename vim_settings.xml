@@ -10,6 +10,7 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" timestamp="1574153362985" />
       <file name="/Python Console" timestamp="1566303392896">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,12 +138,12 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1574151964805">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="^" line="1" column="9" />
+      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1574153021148">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
