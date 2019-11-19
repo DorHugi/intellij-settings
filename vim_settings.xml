@@ -137,13 +137,13 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1573651813423">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/evinced/myPyUtils/playground.py" timestamp="1574151964805">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/evinced/nvda/source/speech/__init__.py" timestamp="1573987132782" />
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
         <mark key="[" line="0" column="0" />
@@ -158,7 +158,6 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/window/__init__.py" timestamp="1573988377347" />
       <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" timestamp="1573993917650">
         <mark key="a" line="1471" column="15" />
         <mark key="'" line="603" column="8" />
@@ -299,6 +298,7 @@
       <jump line="1288" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
       <jump line="1611" column="45" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
       <jump line="603" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/evinced/myPyUtils/playground.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
