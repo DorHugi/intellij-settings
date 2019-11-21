@@ -10,6 +10,7 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/running_examples" timestamp="1574327649948" />
       <file name="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" timestamp="1574156782552">
         <mark key="a" line="1829" column="12" />
         <mark key="'" line="569" column="9" />
@@ -23,11 +24,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1566301940057">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1574327580494">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
@@ -43,7 +45,7 @@
         <mark key="]" line="977" column="16" />
         <mark key="." line="977" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1573386973560">
+      <file name="/a.dummy" timestamp="1574327565341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" timestamp="1572789674621">
@@ -121,10 +123,10 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1572879896159">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="60" column="19" />
-        <mark key="]" line="60" column="19" />
+      <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1574327543858">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="68" column="0" />
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
@@ -304,49 +306,52 @@
       <jump line="603" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
       <jump line="3" column="0" filename="$USER_HOME$/evinced/myPyUtils/playground.py" />
       <jump line="569" column="9" filename="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" />
+      <jump line="37" column="22" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
+      <jump line="16" column="24" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>wix_finder</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>wix_finder</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyWydmaWxlcyddICs9IDEKICAgICAgICBmb3IgY29tcG9uZW50IGluIGpzb25fY29udGVudDoKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY291bnRlcltjb21wb25lbnRbJ3R5cGUnXV0gKz0gMQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGVycjoKICAgICAgICAgICAgICAgIHByaW50KCdDb3VsZG50IGhhbmRsZSBlbGVtZW50OicsIGNvbXBvbmVudCkKICAgICAgICAgICAgICAgIHByaW50KCdFcnJvcjonLCBlcnIpCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAnd2l4X2ZpbmRlcicKCiAgICBkZWYgc3RhcnRfcmVxdWVzdHMoc2VsZik6CiAgICAgICAgdXJscyA9IHV0aWxzLmdldF9pbnB1dF91cmxzKElOUFVUX1VSTF9BQlNfUEFUSCkKICAgICAgICBmb3IgdXJsIGluIHVybHM6CiAgICAgICAgICAgICMgZ2l2ZSBzZWVkIFVSTFMgaGlnaGVyIHByaW9yaXR5CiAgICAgICAgICAgIHVybCA9IGZpeF91cmwodXJsKQogICAgICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9dXJsLCBjYWxsYmFjaz1zZWxmLnBhcnNlLCBwcmlvcml0eT0yLCBtZXRhPXsnb3JpZ2luJzogJ3NlZWQnLCBJTkRJUkVDVElPTl9MRVZFTDogMH0pCgogICAgZGVmIHBhcnNlKHNlbGYsIHJlc3BvbnNlKToKCiAgICAgICAgcHJpbnQoJ1NjcmFwcGluZyBzaXRlOicsIHJlc3BvbnNlLnVybCwgJ2luZGlyZWN0aW9uIGxldmVsOicsIHJlc3BvbnNlLm1ldGFbSU5ESVJFQ1RJT05fTEVWRUxdLAogICAgICAgICAgICAgICdvcmlnaW46JywgcmVzcG9uc2UubWV0YVsnb3JpZ2luJ10pCgogICAgICAgICMgQ2hlY2sgaWYgaXQncyBhIHdpeCBzaXRlOgogICAgICAgIGlzX3dpeCA9IGlzX3dpeF9zaXRlKHJlc3BvbnNlKQogICAgICAgIGlmIGlzX3dpeDoKICAgICAgICAgICAgcHJpbnQoJ0ZvdW5kIHdpeCBzaXRlIGF0OicsIHJlc3BvbnNlLnJlcXVlc3QudXJsKQogICAgICAgICAgICB5aWVsZCB7J3VybCc6IHJlc3BvbnNlLnJlcXVlc3QudXJsfQoKICAgICAgICBpbmRpcmVjdGlvbl9sZXZlbCA9IHJlc3BvbnNlLm1ldGFbSU5ESVJFQ1RJT05fTEVWRUxdCgogICAgICAgICMgaWYgaXNfd2l4IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTDoKICAgICAgICBpZiBpc193aXg6ICAjIFRPRE86IE5PVEUhIFJ1bm5pbmcgb24gd2l4IG9ubHkgc2NyYXBwaW5nIG1vZGUsIHdpdGhvdXQgaW5kaXJlY3Qgc2l0ZXMKICAgICAgICAgICAgbmV4dF9pbmRpcmVjdGlvbl9sZXZlbCA9IDEgaWYgaXNfd2l4IGVsc2UgKGluZGlyZWN0aW9uX2xldmVsICsgMSkKCiAgICAgICAgICAgIG5leHRfcGFnZXMgPSByZXNwb25zZS54cGF0aCgnLy9hL0BocmVmJykuZ2V0YWxsKCkKICAgICAgICAgICAgZm9yIG5leHRfcGFnZSBpbiBuZXh0X3BhZ2VzOgogICAgICAgICAgICAgICAgbmV4dF9wYWdlID0gcmVzcG9uc2UudXJsam9pbihuZXh0X3BhZ2UpCiAgICAgICAgICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdChuZXh0X3BhZ2UsIGNhbGxiYWNrPXNlbGYucGFyc2UsIHByaW9yaXR5PTEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXRhPXsnb3JpZ2luJzogcmVzcG9uc2UudXJsLCBJTkRJUkVDVElPTl9MRVZFTDogbmV4dF9pbmRpcmVjdGlvbl9sZXZlbH0pCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGJlbG9uZ3NfdG9fZG9tYWluIG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAnZG9tYWluU3BpZGVyJwogICAgYWxsb3dlZF9kb21haW5zID0gW0RPTUFJTl0KICAgIHN0YXJ0X3VybHMgPSBbCiAgICAgICAgU0VFRF9VUkwKICAgIF0KCiAgICBkZWYgcGFyc2Uoc2VsZiwgcmVzcG9uc2UpOgogICAgICAgIGh4cyA9IEh0bWxYUGF0aFNlbGVjdG9yKHJlc3BvbnNlKQogICAgICAgIGZvciB1cmwgaW4gaHhzLnNlbGVjdCgnLy9hL0BocmVmJykuZXh0cmFjdCgpOgogICAgICAgICAgICBpZiBub3QgKCB1cmwuc3RhcnRzd2l0aCgnaHR0cDovLycpIG9yIHVybC5zdGFydHN3aXRoKCdodHRwczovLycpICk6CiAgICAgICAgICAgICAgICB1cmw9IFVSTCArIHVybAogICAgICAgICAgICBwcmludCAodXJsKQogICAgICAgICAgICB5aWVsZCBSZXF1ZXN0KHVybCwgY2FsbGJhY2s9c2VsZi5wYXJzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdUb3RhbCBmcm9tIGVhY2ggdHlwZTonLCBjb3VudGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjcmFweQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkuc3BpZGVyIGltcG9ydCBCYXNlU3BpZGVyCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdFeGl0aW5nJykKICAgIHByaW50KCdCeWUgYnllJykK</text>
+        <text encoding="base64">ICAgIHByaW50KCdUb3RhbCBmcm9tIGVhY2ggdHlwZTonLCBjb3VudGVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -369,11 +374,11 @@
         <entry>ww</entry>
         <entry>.,.+1W</entry>
         <entry>׳</entry>
-        <entry>W</entry>
         <entry>wa</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
