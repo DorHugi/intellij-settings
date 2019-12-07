@@ -23,12 +23,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1575532356189">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="69" column="75" />
-        <mark key="]" line="69" column="75" />
-        <mark key="." line="69" column="75" />
-        <mark key="^" line="69" column="75" />
+      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1575722518996">
+        <mark key="'" line="33" column="28" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
@@ -322,17 +322,17 @@
       <jump line="29" column="28" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnPycgaW4gcmVzcG9uc2UudXJsOgogICAgICAgICAgICByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text>.smcgov.</text>
       </register>
       <register name="-" type="4">
-        <text>response.request.url</text>
+        <text>'.ufc.', '.ufcstore.', '.ufcfightpass.', 'ufc.allow'</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnd2l4X2ZpbmRlcicKCiAgICBkZWYgc3RhcnRfcmVxdWVzdHMoc2VsZik6CiAgICAgICAgdXJscyA9IHV0aWxzLmdldF9pbnB1dF91cmxzKElOUFVUX1VSTF9BQlNfUEFUSCkKICAgICAgICBmb3IgdXJsIGluIHVybHM6CiAgICAgICAgICAgICMgZ2l2ZSBzZWVkIFVSTFMgaGlnaGVyIHByaW9yaXR5CiAgICAgICAgICAgIHVybCA9IGZpeF91cmwodXJsKQogICAgICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9dXJsLCBjYWxsYmFjaz1zZWxmLnBhcnNlLCBwcmlvcml0eT0yLCBtZXRhPXsnb3JpZ2luJzogJ3NlZWQnLCBJTkRJUkVDVElPTl9MRVZFTDogMH0pCgogICAgZGVmIHBhcnNlKHNlbGYsIHJlc3BvbnNlKToKCiAgICAgICAgcHJpbnQoJ1NjcmFwcGluZyBzaXRlOicsIHJlc3BvbnNlLnVybCwgJ2luZGlyZWN0aW9uIGxldmVsOicsIHJlc3BvbnNlLm1ldGFbSU5ESVJFQ1RJT05fTEVWRUxdLAogICAgICAgICAgICAgICdvcmlnaW46JywgcmVzcG9uc2UubWV0YVsnb3JpZ2luJ10pCgogICAgICAgICMgQ2hlY2sgaWYgaXQncyBhIHdpeCBzaXRlOgogICAgICAgIGlzX3dpeCA9IGlzX3dpeF9zaXRlKHJlc3BvbnNlKQogICAgICAgIGlmIGlzX3dpeDoKICAgICAgICAgICAgcHJpbnQoJ0ZvdW5kIHdpeCBzaXRlIGF0OicsIHJlc3BvbnNlLnJlcXVlc3QudXJsKQogICAgICAgICAgICB5aWVsZCB7J3VybCc6IHJlc3BvbnNlLnJlcXVlc3QudXJsfQoKICAgICAgICBpbmRpcmVjdGlvbl9sZXZlbCA9IHJlc3BvbnNlLm1ldGFbSU5ESVJFQ1RJT05fTEVWRUxdCgogICAgICAgICMgaWYgaXNfd2l4IG9yIGluZGlyZWN0aW9uX2xldmVsIDw9IE1BWF9JTkRJUkVDVElPTl9MRVZFTDoKICAgICAgICBpZiBpc193aXg6ICAjIFRPRE86IE5PVEUhIFJ1bm5pbmcgb24gd2l4IG9ubHkgc2NyYXBwaW5nIG1vZGUsIHdpdGhvdXQgaW5kaXJlY3Qgc2l0ZXMKICAgICAgICAgICAgbmV4dF9pbmRpcmVjdGlvbl9sZXZlbCA9IDEgaWYgaXNfd2l4IGVsc2UgKGluZGlyZWN0aW9uX2xldmVsICsgMSkKCiAgICAgICAgICAgIG5leHRfcGFnZXMgPSByZXNwb25zZS54cGF0aCgnLy9hL0BocmVmJykuZ2V0YWxsKCkKICAgICAgICAgICAgZm9yIG5leHRfcGFnZSBpbiBuZXh0X3BhZ2VzOgogICAgICAgICAgICAgICAgbmV4dF9wYWdlID0gcmVzcG9uc2UudXJsam9pbihuZXh0X3BhZ2UpCiAgICAgICAgICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdChuZXh0X3BhZ2UsIGNhbGxiYWNrPXNlbGYucGFyc2UsIHByaW9yaXR5PTEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXRhPXsnb3JpZ2luJzogcmVzcG9uc2UudXJsLCBJTkRJUkVDVElPTl9MRVZFTDogbmV4dF9pbmRpcmVjdGlvbl9sZXZlbH0pCgo=</text>
+      <register name="0" type="4">
+        <text>.smcgov.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAnPycgaW4gcmVzcG9uc2UudXJsOgogICAgICAgICAgICByZXR1cm4K</text>
