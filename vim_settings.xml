@@ -30,8 +30,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1575807786210">
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" timestamp="1576490028088">
+        <mark key="'" line="73" column="21" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
@@ -321,21 +325,21 @@
       <jump line="0" column="23" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
       <jump line="31" column="0" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
       <jump line="29" column="28" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
       <jump line="21" column="75" filename="$USER_HOME$/evinced/prod-mon/scrapper/random-chooser.py" />
+      <jump line="70" column="21" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>ufcstore</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ufcstore</text>
       </register>
       <register name="/" type="4">
         <text>=.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBJTlBVVF9GSUxFID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICcuL2FsbF9jYXBpdGFsX29uZS5qc29uJykKIyBPVVRQVVRfRklMRSA9IG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi9yYW5kb21fcGFnZXMuanNvbicpCg==</text>
+        <text encoding="base64">RE9NQUlOUyA9IFsndWZjc3RvcmUuJ10gICMgY2FwaXRhbCBoYXMgc29tZSBzdWJkb21haW4gdGhhdCB3ZSdyZSBpbnRlcmVzdGVkIGluClNFRURfVVJMUyA9IFsnaHR0cHM6Ly91ZmNzdG9yZS5jb20vJ10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50Cg==</text>
@@ -390,10 +394,10 @@
         <entry>.,.+1W</entry>
         <entry>׳</entry>
         <entry>vsp</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi8v</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
