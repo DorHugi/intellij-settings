@@ -88,7 +88,6 @@
       <file name="$USER_HOME$/evinced/myPyUtils/transform_scrapper_to_tagger_input_format.py" timestamp="1573338466450">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/settings.py" timestamp="1576491917677" />
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/__init__.py" timestamp="1572781747851">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="6" column="0" />
@@ -136,6 +135,12 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
+      </file>
+      <file name="/data_manipulator.ipynb" timestamp="1576682098889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" timestamp="1572859798326">
         <mark key="'" line="99447" column="22" />
@@ -370,7 +375,7 @@
         <text encoding="base64">ICAgICAgICAjICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBERUxFVEUgVEhJUyEKCiAgICAgICAgaWYgJy9jb2xsZWN0aW9ucy8nIGluIHJlc3BvbnNlLnVybDoKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgICMgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -394,12 +399,12 @@
         <entry>ww</entry>
         <entry>.,.+1W</entry>
         <entry>׳</entry>
-        <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi8v</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
