@@ -37,10 +37,10 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1576767569511">
-        <mark key="'" line="69" column="43" />
-        <mark key="[" line="18" column="69" />
-        <mark key="]" line="18" column="53" />
+      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1576770742232">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="102" column="8" />
         <mark key="." line="18" column="53" />
         <mark key="^" line="18" column="53" />
       </file>
@@ -250,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="27" filename="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/spiders/wix_spider.py" />
       <jump line="16" column="3" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
       <jump line="2" column="0" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
       <jump line="6" column="8" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
@@ -350,10 +349,113 @@
       <jump line="46" column="38" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="15" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="58" column="43" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urls</text>
+        <text>import json
+import argparse
+
+TYPE_TO_SEVERITY = {
+    'WRONG_SEMANTIC_ROLE': 'HIGH',
+    'NO_DESCRIPTIVE_TEXT': 'HIGH',
+    'NOT_FOCUSABLE': 'HIGH',
+    'NO_INVISIBLE_INDICATION': 'HIGH',
+    'WRONG_EXPANDED_INDICATION': 'HIGH',
+    'WRONG_HEADING_USE': 'HIGH',
+    'WRONG_DOM_ORDER': 'HIGH',
+    'AXE_VIOLATION': 'MEDIUM'
+
+}
+
+parser = argparse.ArgumentParser()
+parser.add_argument('input_file')
+parser.add_argument('output_file')
+parser.add_argument('--create_header_files', type=bool)
+
+
+def run(args):
+    try:
+        with open(args.input_file, 'r') as fh:
+            json_content = json.load(fh)
+    except:
+        try:
+
+            with open(args.input_file, 'r') as fh:
+                raw_content = fh.read()
+                json_content = json.loads('[{}]'.format(raw_content.rstrip(',')))
+            print('This is RedHat input!')
+        except:
+            with open(args.input_file, 'r') as fh:
+                content = fh.read()
+                content = content[:-2] + ']'
+                json_content = json.loads(content)
+
+    validations_list = []
+    urls_with_validations_set = set()
+    all_urls_set = set()
+
+    for v in json_content:
+        all_urls_set.add(v['url'])
+        if 'analysisResult' in v:
+            for validation in v['analysisResult']['validations']:
+                res = {'url': v['url']}
+                urls_with_validations_set.add(v['url'])
+                if validation['type'] not in TYPE_TO_SEVERITY:  # AXE VALIDATION:
+                    res['type'] = validation['properties']['axeType']
+                    res['severity'] = validation['properties']['axeSeverity']
+
+                else:
+
+                    res['type'] = validation['type']
+                    res['severity'] = TYPE_TO_SEVERITY[validation['type']]
+                res['components'] = validation['components']
+                res['fullPath'] = validation.get('fullPath')
+
+                if '/HEADER' in validation['fullPath']:
+                    res['component'] = 'HEADER'
+                elif '/FOOTER' in validation['fullPath']:
+                    res['component'] = 'FOOTER'
+                else:
+                    res['component'] = 'OTHER'
+
+
+
+
+                validations_list.append(res)
+
+    res_json = {
+        'validations_list': validations_list,
+        'clean_urls': list(all_urls_set - urls_with_validations_set)
+    }
+
+    output_file_full_name = '{}.json'.format(args.output_file)
+
+    with open(output_file_full_name, 'w') as fh:
+        print('Saving file:', output_file_full_name)
+        json.dump(res_json, fh)
+
+    header_validations = [v for v in validations_list if '/HEADER/' in v['fullPath']]
+    footer_validations = [v for v in validations_list if '/FOOTER/' in v['fullPath']]
+    not_header_or_footer = [v for v in validations_list if v not in header_validations and v not in footer_validations]
+
+    suffix_to_validations = {
+        'header_only': header_validations,
+        'footer_only': footer_validations,
+        'without_header_or_footer': not_header_or_footer
+
+    }
+
+    for suffix, validations in suffix_to_validations.items():
+        output_file_full_name = '{}.{}.json'.format(args.output_file, suffix)
+        with open(output_file_full_name, 'w') as fh:
+            print('Saving file:', output_file_full_name)
+            json.dump({'validations_list': validations, 'clean_urls': []}, fh)
+
+
+if __name__ == '__main__':
+    args = parser.parse_args()
+run(args)</text>
       </register>
       <register name="-" type="4">
         <text>urls</text>
@@ -361,8 +463,110 @@
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnb3V0cHV0X2ZpbGUnKQo=</text>
+      <register name="0" type="4">
+        <text>import json
+import argparse
+
+TYPE_TO_SEVERITY = {
+    'WRONG_SEMANTIC_ROLE': 'HIGH',
+    'NO_DESCRIPTIVE_TEXT': 'HIGH',
+    'NOT_FOCUSABLE': 'HIGH',
+    'NO_INVISIBLE_INDICATION': 'HIGH',
+    'WRONG_EXPANDED_INDICATION': 'HIGH',
+    'WRONG_HEADING_USE': 'HIGH',
+    'WRONG_DOM_ORDER': 'HIGH',
+    'AXE_VIOLATION': 'MEDIUM'
+
+}
+
+parser = argparse.ArgumentParser()
+parser.add_argument('input_file')
+parser.add_argument('output_file')
+parser.add_argument('--create_header_files', type=bool)
+
+
+def run(args):
+    try:
+        with open(args.input_file, 'r') as fh:
+            json_content = json.load(fh)
+    except:
+        try:
+
+            with open(args.input_file, 'r') as fh:
+                raw_content = fh.read()
+                json_content = json.loads('[{}]'.format(raw_content.rstrip(',')))
+            print('This is RedHat input!')
+        except:
+            with open(args.input_file, 'r') as fh:
+                content = fh.read()
+                content = content[:-2] + ']'
+                json_content = json.loads(content)
+
+    validations_list = []
+    urls_with_validations_set = set()
+    all_urls_set = set()
+
+    for v in json_content:
+        all_urls_set.add(v['url'])
+        if 'analysisResult' in v:
+            for validation in v['analysisResult']['validations']:
+                res = {'url': v['url']}
+                urls_with_validations_set.add(v['url'])
+                if validation['type'] not in TYPE_TO_SEVERITY:  # AXE VALIDATION:
+                    res['type'] = validation['properties']['axeType']
+                    res['severity'] = validation['properties']['axeSeverity']
+
+                else:
+
+                    res['type'] = validation['type']
+                    res['severity'] = TYPE_TO_SEVERITY[validation['type']]
+                res['components'] = validation['components']
+                res['fullPath'] = validation.get('fullPath')
+
+                if '/HEADER' in validation['fullPath']:
+                    res['component'] = 'HEADER'
+                elif '/FOOTER' in validation['fullPath']:
+                    res['component'] = 'FOOTER'
+                else:
+                    res['component'] = 'OTHER'
+
+
+
+
+                validations_list.append(res)
+
+    res_json = {
+        'validations_list': validations_list,
+        'clean_urls': list(all_urls_set - urls_with_validations_set)
+    }
+
+    output_file_full_name = '{}.json'.format(args.output_file)
+
+    with open(output_file_full_name, 'w') as fh:
+        print('Saving file:', output_file_full_name)
+        json.dump(res_json, fh)
+
+    header_validations = [v for v in validations_list if '/HEADER/' in v['fullPath']]
+    footer_validations = [v for v in validations_list if '/FOOTER/' in v['fullPath']]
+    not_header_or_footer = [v for v in validations_list if v not in header_validations and v not in footer_validations]
+
+    suffix_to_validations = {
+        'header_only': header_validations,
+        'footer_only': footer_validations,
+        'without_header_or_footer': not_header_or_footer
+
+    }
+
+    for suffix, validations in suffix_to_validations.items():
+        output_file_full_name = '{}.{}.json'.format(args.output_file, suffix)
+        with open(output_file_full_name, 'w') as fh:
+            print('Saving file:', output_file_full_name)
+            json.dump({'validations_list': validations, 'clean_urls': []}, fh)
+
+
+if __name__ == '__main__':
+    args = parser.parse_args()
+run(args)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCdVcmxzIGFyZTonLCBzYW1wbGVkX3VybHMpCg==</text>
