@@ -248,6 +248,12 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon/utils/create-urls-json-from-tools-comparison.py" timestamp="1577009396458">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="3" filename="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" />
@@ -353,112 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import json
-import argparse
-
-TYPE_TO_SEVERITY = {
-    'WRONG_SEMANTIC_ROLE': 'HIGH',
-    'NO_DESCRIPTIVE_TEXT': 'HIGH',
-    'NOT_FOCUSABLE': 'HIGH',
-    'NO_INVISIBLE_INDICATION': 'HIGH',
-    'WRONG_EXPANDED_INDICATION': 'HIGH',
-    'WRONG_HEADING_USE': 'HIGH',
-    'WRONG_DOM_ORDER': 'HIGH',
-    'AXE_VIOLATION': 'MEDIUM'
-
-}
-
-parser = argparse.ArgumentParser()
-parser.add_argument('input_file')
-parser.add_argument('output_file')
-parser.add_argument('--create_header_files', type=bool)
-
-
-def run(args):
-    try:
-        with open(args.input_file, 'r') as fh:
-            json_content = json.load(fh)
-    except:
-        try:
-
-            with open(args.input_file, 'r') as fh:
-                raw_content = fh.read()
-                json_content = json.loads('[{}]'.format(raw_content.rstrip(',')))
-            print('This is RedHat input!')
-        except:
-            with open(args.input_file, 'r') as fh:
-                content = fh.read()
-                content = content[:-2] + ']'
-                json_content = json.loads(content)
-
-    validations_list = []
-    urls_with_validations_set = set()
-    all_urls_set = set()
-
-    for v in json_content:
-        all_urls_set.add(v['url'])
-        if 'analysisResult' in v:
-            for validation in v['analysisResult']['validations']:
-                res = {'url': v['url']}
-                urls_with_validations_set.add(v['url'])
-                if validation['type'] not in TYPE_TO_SEVERITY:  # AXE VALIDATION:
-                    res['type'] = validation['properties']['axeType']
-                    res['severity'] = validation['properties']['axeSeverity']
-
-                else:
-
-                    res['type'] = validation['type']
-                    res['severity'] = TYPE_TO_SEVERITY[validation['type']]
-                res['components'] = validation['components']
-                res['fullPath'] = validation.get('fullPath')
-
-                if '/HEADER' in validation['fullPath']:
-                    res['component'] = 'HEADER'
-                elif '/FOOTER' in validation['fullPath']:
-                    res['component'] = 'FOOTER'
-                else:
-                    res['component'] = 'OTHER'
-
-
-
-
-                validations_list.append(res)
-
-    res_json = {
-        'validations_list': validations_list,
-        'clean_urls': list(all_urls_set - urls_with_validations_set)
-    }
-
-    output_file_full_name = '{}.json'.format(args.output_file)
-
-    with open(output_file_full_name, 'w') as fh:
-        print('Saving file:', output_file_full_name)
-        json.dump(res_json, fh)
-
-    header_validations = [v for v in validations_list if '/HEADER/' in v['fullPath']]
-    footer_validations = [v for v in validations_list if '/FOOTER/' in v['fullPath']]
-    not_header_or_footer = [v for v in validations_list if v not in header_validations and v not in footer_validations]
-
-    suffix_to_validations = {
-        'header_only': header_validations,
-        'footer_only': footer_validations,
-        'without_header_or_footer': not_header_or_footer
-
-    }
-
-    for suffix, validations in suffix_to_validations.items():
-        output_file_full_name = '{}.{}.json'.format(args.output_file, suffix)
-        with open(output_file_full_name, 'w') as fh:
-            print('Saving file:', output_file_full_name)
-            json.dump({'validations_list': validations, 'clean_urls': []}, fh)
-
-
-if __name__ == '__main__':
-    args = parser.parse_args()
-run(args)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>urls</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -569,31 +473,31 @@ if __name__ == '__main__':
 run(args)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdVcmxzIGFyZTonLCBzYW1wbGVkX3VybHMpCg==</text>
+        <text encoding="base64">cHJpbnQoJ0xpbmVzIGFyZTonLCBsaW5lcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBcmdzIGFyZTonLCBhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXJncyA9IFYK</text>
+        <text encoding="base64">Zm9yIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgnbnVtYmVyJykK</text>
+        <text encoding="base64">cmVzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1RoaXMgaXMgYSBiYWxhZ2FuIGlucHV0IScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">JycnCkJlZm9yZSBydW5uaW5nIHRoaXMgZmlsZSwgCicnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">JycnCkJlZm9yZSBydW5uaW5nIHRoaXMgZmlsZSwgCicnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwYXJzZXIuYWRkX2FyZ3VtZW50KCctaScsICctLWlucHV0X2ZpbGUnLCByZXF1aXJlZD1UcnVlKQojIHBhcnNlci5hZGRfYXJndW1lbnQoJy1vJywgJy0tb3V0cHV0X2ZpbGUnLCByZXF1aXJlZD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdVcmxzIGFyZTonLCBzYW1wbGVkX3VybHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -625,8 +529,8 @@ run(args)</text>
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>wa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
