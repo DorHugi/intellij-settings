@@ -127,12 +127,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1577615042440">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="47" />
-        <mark key="." line="45" column="47" />
-        <mark key="^" line="45" column="47" />
+      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1577808758408">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566120013482">
         <mark key="[" line="0" column="0" />
@@ -267,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
       <jump line="24" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
       <jump line="29" column="4" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
       <jump line="33" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
@@ -340,7 +338,6 @@
       <jump line="87" column="12" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="70" column="4" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="19" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="20" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="84" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="77" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -367,13 +364,15 @@
       <jump line="52" column="8" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="104" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="31" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>component</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>component</text>
+        <text>DEFAULT_COMPONENT</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -382,31 +381,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYWxsX3VybHNfc2V0LmFkZChyZXNbJ3VybCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgPSAnT1RIRVInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgPSAnT1RIRVInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10KICAgICAgICB1cmxzX3dpdGhfdmFsaWRhdGlvbnNfc2V0ID0gc2V0KCkKICAgICAgICBhbGxfdXJsc19zZXQgPSBzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuc2VsZWN0b3IgaW1wb3J0IEh0bWxYUGF0aFNlbGVjdG9yCmZyb20gc2NyYXB5Lmh0dHAgaW1wb3J0IFJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBET01BSU5TID0gWyd1ZmNzdG9yZS4nXSAgIyBjYXBpdGFsIGhhcyBzb21lIHN1YmRvbWFpbiB0aGF0IHdlJ3JlIGludGVyZXN0ZWQgaW4KIyBTRUVEX1VSTFMgPSBbJ2h0dHBzOi8vdWZjc3RvcmUuY29tLyddCgpET01BSU5TID0gWydmaXZlcnIuY29tJ10gICMgY2FwaXRhbCBoYXMgc29tZSBzdWJkb21haW4gdGhhdCB3ZSdyZSBpbnRlcmVzdGVkIGluClNFRURfVVJMUyA9IFsnaHR0cHM6Ly9maXZlcnIuY29tLyddCgojIERPTUFJTlMgPSBbJy5zbWNnb3YuJ10gICMgY2FwaXRhbCBoYXMgc29tZSBzdWJkb21haW4gdGhhdCB3ZSdyZSBpbnRlcmVzdGVkIGluCiMgU0VFRF9VUkxTID0gWydodHRwczovL3d3dy5zbWNnb3Yub3JnJ10K</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10KICAgICAgICB1cmxzX3dpdGhfdmFsaWRhdGlvbnNfc2V0ID0gc2V0KCkKICAgICAgICBhbGxfdXJsc19zZXQgPSBzZXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdDT01QT05FTlQ6JywgY29tcG9uZW50KQo=</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkuc2VsZWN0b3IgaW1wb3J0IEh0bWxYUGF0aFNlbGVjdG9yCmZyb20gc2NyYXB5Lmh0dHAgaW1wb3J0IFJlcXVlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnR09UIEhFUkUhJykK</text>
+        <text encoding="base64">IyBET01BSU5TID0gWyd1ZmNzdG9yZS4nXSAgIyBjYXBpdGFsIGhhcyBzb21lIHN1YmRvbWFpbiB0aGF0IHdlJ3JlIGludGVyZXN0ZWQgaW4KIyBTRUVEX1VSTFMgPSBbJ2h0dHBzOi8vdWZjc3RvcmUuY29tLyddCgpET01BSU5TID0gWydmaXZlcnIuY29tJ10gICMgY2FwaXRhbCBoYXMgc29tZSBzdWJkb21haW4gdGhhdCB3ZSdyZSBpbnRlcmVzdGVkIGluClNFRURfVVJMUyA9IFsnaHR0cHM6Ly9maXZlcnIuY29tLyddCgojIERPTUFJTlMgPSBbJy5zbWNnb3YuJ10gICMgY2FwaXRhbCBoYXMgc29tZSBzdWJkb21haW4gdGhhdCB3ZSdyZSBpbnRlcmVzdGVkIGluCiMgU0VFRF9VUkxTID0gWydodHRwczovL3d3dy5zbWNnb3Yub3JnJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc1snY29tcG9uZW50J10gPSAnT1RIRVInCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgcmVzWydjb21wb25lbnQnXSA9ICdPVEhFUicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdDT01QT05FTlQ6JywgY29tcG9uZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
