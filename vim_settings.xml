@@ -19,6 +19,13 @@
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" timestamp="1572789674621">
         <mark key="'" line="16323" column="101" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon/utils/url-manipulator.py" timestamp="1578233269197">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="72" column="40" />
+        <mark key="]" line="73" column="11" />
+        <mark key="." line="73" column="11" />
+        <mark key="^" line="73" column="11" />
+      </file>
       <file name="/wix_spider" timestamp="1563285111747">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,11 +49,6 @@
         <mark key="]" line="13" column="33" />
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/evinced/nvda/source/browseMode.py" timestamp="1573990309824">
-        <mark key="a" line="258" column="4" />
-        <mark key="b" line="306" column="4" />
-        <mark key="'" line="258" column="29" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" timestamp="1574327543858">
         <mark key="'" line="38" column="0" />
@@ -111,7 +113,7 @@
         <mark key="a" line="1829" column="12" />
         <mark key="'" line="569" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1577872633949">
+      <file name="/Python Console" timestamp="1578232566020">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1572781600810">
@@ -134,7 +136,7 @@
         <mark key="^" line="48" column="71" />
         <mark key="." line="48" column="71" />
       </file>
-      <file name="/fragment.py" timestamp="1566120013482">
+      <file name="/fragment.py" timestamp="1578231634769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" timestamp="1573990698539">
@@ -267,10 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/settings.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
-      <jump line="51205" column="21" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
-      <jump line="76" column="117" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" />
       <jump line="16323" column="101" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/CPY_15-46-29-03-11-2019.txt" />
       <jump line="635" column="81" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" />
       <jump line="61571" column="49" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/16-07-41-03-11-2019.txt" />
@@ -367,13 +365,17 @@
       <jump line="63" column="14" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="48" column="66" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="61" column="12" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/url-manipulator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/url-manipulator.py" />
+      <jump line="75" column="32" filename="$USER_HOME$/evinced/prod-mon/utils/url-manipulator.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/url-manipulator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHByZV9vcmRlcihub2RlKToK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parent_</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -382,10 +384,10 @@
         <text>row['similarElementsGroup']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByZV9vcmRlcihub2RlKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFzcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -394,19 +396,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgPSAnT1RIRVInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgPSAnT1RIRVInCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10KICAgICAgICB1cmxzX3dpdGhfdmFsaWRhdGlvbnNfc2V0ID0gc2V0KCkKICAgICAgICBhbGxfdXJsc19zZXQgPSBzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuc2VsZWN0b3IgaW1wb3J0IEh0bWxYUGF0aFNlbGVjdG9yCmZyb20gc2NyYXB5Lmh0dHAgaW1wb3J0IFJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uc19saXN0ID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -438,9 +440,9 @@
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
-        <entry>W</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
