@@ -132,10 +132,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1578314682499">
-        <mark key="'" line="81" column="26" />
-        <mark key="[" line="124" column="45" />
-        <mark key="]" line="124" column="46" />
+      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1578317434481">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="30" />
         <mark key="^" line="122" column="26" />
         <mark key="." line="124" column="46" />
       </file>
@@ -183,6 +183,12 @@
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon/utils/convert_json_csv.py" timestamp="1578317554995">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1578314615678">
         <mark key="[" line="0" column="0" />
@@ -264,9 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4262" column="11" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/resources/all_baught_wix_sites.json" />
-      <jump line="13" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
-      <jump line="50676" column="74" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="49814" column="41" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="49823" column="72" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
       <jump line="49559" column="52" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/logs/TMP.txt" />
@@ -321,7 +324,6 @@
       <jump line="26" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="73" column="4" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="33" column="34" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="23" column="3" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="87" column="12" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="70" column="4" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="19" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -364,46 +366,50 @@
       <jump line="22" column="34" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="92" column="63" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="79" column="26" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="127" column="50" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="29" column="57" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguaXNmaWxlKG91dHB1dF9maWxlX3BhdGgpIGFuZCBub3QgYXJncy5mOgogICAgICAgIHByaW50KCdGaWxlIGFscmVhZHkgZXhpc3RzLCB1c2UgLWYgdG8gb3ZlcnJpZGUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>input_file</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="4">
-        <text>if args.use_selector_components:</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguaXNmaWxlKG91dHB1dF9maWxlX3BhdGgpIGFuZCBub3QgYXJncy5mOgogICAgICAgIHByaW50KCdGaWxlIGFscmVhZHkgZXhpc3RzLCB1c2UgLWYgdG8gb3ZlcnJpZGUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmFzZW5hbWUgPSBvcy5wYXRoLmJhc2VuYW1lKGFyZ3MuaW5wdXRfZmlsZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0X2VudHJ5ID0gZmluZF9tYXRjaGluZ19yZXBvcnRfZW50cnkodmFsaWRhdGlvblsnaWQnXSwgdlsnYW5hbHlzaXNSZXN1bHQnXVsncmVwb3J0J10pCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlcG9ydF9lbnRyeToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudF9ncm91cCA9IHJlcG9ydF9lbnRyeVsnc2VsZWN0b3JzJ11bMF1bJ3NpbWlsYXJFbGVtZW50c0dyb3VwJ10KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGNvbXBvbmVudF9ncm91cDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgPSBjb21wb25lbnRfZ3JvdXA=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3QgYXJncy51c2VfZXluYXZzX2NvbXBvbmVudHM6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICcvSEVBREVSJyBpbiByZXNbJ2Z1bGxQYXRoJ106CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBERUZBVUxUX0NPTVBPTkVOVCA9ICdIRUFERVInCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgJy9GT09URVInIGluIHJlc1snZnVsbFBhdGgnXToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERFRkFVTFRfQ09NUE9ORU5UID0gJ0ZPT1RFUicK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0X2VudHJ5ID0gZmluZF9tYXRjaGluZ19yZXBvcnRfZW50cnkodmFsaWRhdGlvblsnaWQnXSwgdlsnYW5hbHlzaXNSZXN1bHQnXVsncmVwb3J0J10pCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIHJlcG9ydF9lbnRyeToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudF9ncm91cCA9IHJlcG9ydF9lbnRyeVsnc2VsZWN0b3JzJ11bMF1bJ3NpbWlsYXJFbGVtZW50c0dyb3VwJ10KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGNvbXBvbmVudF9ncm91cDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQgPSBjb21wb25lbnRfZ3JvdXA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBub3QgYXJncy51c2VfZXluYXZzX2NvbXBvbmVudHM6CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICcvSEVBREVSJyBpbiByZXNbJ2Z1bGxQYXRoJ106CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBERUZBVUxUX0NPTVBPTkVOVCA9ICdIRUFERVInCiAgICAgICAgICAgICAgICAgICAgICAgIGVsaWYgJy9GT09URVInIGluIHJlc1snZnVsbFBhdGgnXToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERFRkFVTFRfQ09NUE9ORU5UID0gJ0ZPT1RFUicK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHByZV9vcmRlcihub2RlKToK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
