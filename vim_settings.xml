@@ -132,12 +132,12 @@
         <mark key="." line="71" column="47" />
         <mark key="^" line="71" column="47" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1578499856145">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="99" column="39" />
-        <mark key="]" line="99" column="39" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="99" column="39" />
+      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1578500686395">
+        <mark key="'" line="99" column="51" />
+        <mark key="[" line="90" column="23" />
+        <mark key="]" line="90" column="39" />
+        <mark key="^" line="90" column="39" />
+        <mark key="." line="90" column="39" />
       </file>
       <file name="/fragment.py" timestamp="1578231634769">
         <mark key="[" line="0" column="0" />
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="23" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/src/analyze_jsons.py" />
       <jump line="112" column="0" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/src/analyze_jsons.py" />
       <jump line="30" column="20" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/src/analyze_jsons.py" />
       <jump line="2" column="0" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" />
@@ -373,13 +372,14 @@
       <jump line="102" column="51" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="119" column="59" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="115" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
+      <jump line="99" column="51" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -388,31 +388,31 @@
         <text>use_gals_components</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0X2VudHJ5ID0gZmluZF9tYXRjaGluZ19yZXBvcnRfZW50cnkodmFsaWRhdGlvblsnaWQnXSwgdlsnYW5hbHlzaXNSZXN1bHQnXVsncmVwb3J0J10pCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXJsc19saXN0ID0gW3hbJ3VybCddIGZvciB4IGluIGpzb25fY29udGVudF0KTk9UX0FMTE9XRURfRVhURU5TSU9TID0gWycuYnInLCAnanAuJywgJ2RlLicsICdydS4nLCAnZnIuJywgJ2F1LicsICdrci4nLCAndWsuJ10KZmlsdGVyZWRfdXJsc19saXN0ID0gW3ggZm9yIHggaW4gdXJsc19saXN0IGlmIG5vdCBhbnkobWFwKGxhbWJkYSBleHA6IGV4cCBpbiB4LCBOT1RfQUxMT1dFRF9FWFRFTlNJT1MpKV0KY2xlYW5fdXJsc19saXN0ID0gW2NsZWFuX3VybCh4KSBmb3IgeCBpbiBmaWx0ZXJlZF91cmxzX2xpc3RdCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsc19saXN0ID0gW3hbJ3VybCddIGZvciB4IGluIGpzb25fY29udGVudF0KTk9UX0FMTE9XRURfRVhURU5TSU9TID0gWycuYnInLCAnanAuJywgJ2RlLicsICdydS4nLCAnZnIuJywgJ2F1LicsICdrci4nLCAndWsuJ10KZmlsdGVyZWRfdXJsc19saXN0ID0gW3ggZm9yIHggaW4gdXJsc19saXN0IGlmIG5vdCBhbnkobWFwKGxhbWJkYSBleHA6IGV4cCBpbiB4LCBOT1RfQUxMT1dFRF9FWFRFTlNJT1MpKV0KY2xlYW5fdXJsc19saXN0ID0gW2NsZWFuX3VybCh4KSBmb3IgeCBpbiBmaWx0ZXJlZF91cmxzX2xpc3RdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -444,8 +444,8 @@
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
-        <entry>W</entry>
         <entry>vsp</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
