@@ -270,6 +270,12 @@
         <mark key="^" line="24" column="35" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/docker_stuff/src/worker.js" timestamp="1579082698572">
+        <mark key="[" line="12" column="96" />
+        <mark key="]" line="12" column="95" />
+        <mark key="." line="12" column="95" />
+        <mark key="^" line="12" column="95" />
+      </file>
       <file name="$USER_HOME$/evinced/kuber-tagger/src/create_jobs_from_template.py" timestamp="1573387615979">
         <mark key="'" line="14" column="29" />
         <mark key="[" line="21" column="45" />
@@ -382,43 +388,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd1cmxzX2xpc3RfcGF0aDonLCBhcmdzLnVybHNfbGlzdF9wYXRoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>analyze</text>
+        <text>queue_identifier</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="4">
-        <text>use_gals_components</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGFyc2VyLmFkZEFyZ3VtZW50KCdxdWV1ZV9pZGVudGlmaWVyJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd1cmxzX2xpc3RfcGF0aDonLCBhcmdzLnVybHNfbGlzdF9wYXRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsibnBtIiwgInJ1biIsICJidWlsZCJdICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Q01EIFsibnBtIiwgInJ1biIsICJidWlsZCJdICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdJIGdvdCB0aGlzIGRhdGE6JywgcmVxdWVzdC5mb3JtKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdJIGdvdCB0aGlzIGRhdGE6JywgcmVxdWVzdC5mb3JtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0X2VudHJ5ID0gZmluZF9tYXRjaGluZ19yZXBvcnRfZW50cnkodmFsaWRhdGlvblsnaWQnXSwgdlsnYW5hbHlzaXNSZXN1bHQnXVsncmVwb3J0J10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwb3J0X2VudHJ5ID0gZmluZF9tYXRjaGluZ19yZXBvcnRfZW50cnkodmFsaWRhdGlvblsnaWQnXSwgdlsnYW5hbHlzaXNSZXN1bHQnXVsncmVwb3J0J10pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
