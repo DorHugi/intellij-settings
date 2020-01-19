@@ -101,6 +101,18 @@
         <mark key="." line="77" column="51" />
         <mark key="^" line="77" column="51" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" timestamp="1579449725235">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="79" column="83" />
+        <mark key="^" line="57" column="69" />
+        <mark key="." line="57" column="69" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/playground.py" timestamp="1579450190341">
+        <mark key="'" line="10" column="30" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
         <mark key="[" line="5" column="9" />
         <mark key="]" line="5" column="14" />
@@ -125,6 +137,13 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" timestamp="1579451595054">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="103" column="24" />
+        <mark key="]" line="103" column="24" />
+        <mark key="." line="103" column="24" />
+        <mark key="^" line="103" column="24" />
       </file>
       <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/spiders/wix_spider.py" timestamp="1566127351838">
         <mark key="'" line="30" column="27" />
@@ -172,11 +191,11 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/queue_publisher.py" timestamp="1579439798749">
-        <mark key="[" line="20" column="123" />
-        <mark key="]" line="20" column="108" />
-        <mark key="^" line="20" column="108" />
-        <mark key="." line="20" column="108" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/queue_publisher.py" timestamp="1579449746790">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/transform_scrapper_to_tagger_input_format.py" timestamp="1573338466450">
         <mark key="[" line="0" column="0" />
@@ -296,23 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="18" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" />
-      <jump line="11" column="8" filename="$USER_HOME$/evinced/nvda/source/controlTypes.py" />
-      <jump line="28" column="37" filename="$USER_HOME$/evinced/nvda/source/speech/commands.py" />
-      <jump line="1475" column="0" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
-      <jump line="975" column="12" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" />
-      <jump line="190" column="53" filename="$USER_HOME$/evinced/nvda/source/appModules/miranda32.py" />
-      <jump line="409" column="23" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" />
-      <jump line="1485" column="0" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
-      <jump line="1028" column="0" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/__init__.py" />
-      <jump line="257" column="0" filename="$USER_HOME$/evinced/nvda/source/browseMode.py" />
-      <jump line="121" column="62" filename="$USER_HOME$/evinced/nvda/source/browseMode.py" />
-      <jump line="258" column="29" filename="$USER_HOME$/evinced/nvda/source/browseMode.py" />
-      <jump line="1288" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
-      <jump line="1611" column="45" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
-      <jump line="603" column="8" filename="$USER_HOME$/evinced/nvda/source/NVDAObjects/IAccessible/__init__.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/evinced/myPyUtils/playground.py" />
       <jump line="569" column="9" filename="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/PIL/Image.py" />
       <jump line="37" column="22" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
       <jump line="38" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
@@ -396,46 +398,63 @@
       <jump line="3" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/job_creator.py" />
       <jump line="76" column="33" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/jobCreatorDocker/job_creator.py" />
       <jump line="25" column="6" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/jobCreatorDocker/job_creator.py" />
+      <jump line="24" column="33" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="59" column="22" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="25" column="6" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="43" column="7" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="50" column="63" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="29" column="26" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="16" column="17" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="64" column="3" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/job_creator.py" />
+      <jump line="82" column="14" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="10" column="30" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/playground.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'evinced-bucket2'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'evinced-bucket2'</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaXNoX3NpbmdsZV9tZXNzYWdlKGNoYW5uZWwsIHsndXJsJzogJ3BsZWFzZS53b3JrLmNvbScsICdidWNrZXQnOiAnZXZpbmNlZC1idWNrZXQyJywgJ2ZpbGVOYW1lJzogJ2RpZF9pX3N0dXR0ZXInfSkK</text>
+        <text encoding="base64">Y2xpZW50ID0gc3RvcmFnZS5DbGllbnQoKQpidWNrZXQgPSBjbGllbnQuZ2V0X2J1Y2tldCgnZXZpbmNlZC1idWNrZXQyJykKYmxvYiA9IGJ1Y2tldC5ibG9iKCdwcm9kLW1vbi9hL2RvcmVrLmpzb24nKQpibG9iLnVwbG9hZF9mcm9tX3N0cmluZyhqc29uLmR1bXBzKHsnaGknOid0aGVyZSd9KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uZmlndXJhdGlvbiA9IGNsaWVudC5Db25maWd1cmF0aW9uKCkKY29uZmlndXJhdGlvbi5hcGlfa2V5WydhdXRob3JpemF0aW9uJ10gPSBUT0tFTgo=</text>
+        <text encoding="base64">ICAgIHB1Ygo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VE9LRU4gPSAnZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNklpSjkuZXlKcGMzTWlPaUpyZFdKbGNtNWxkR1Z6TDNObGNuWnBZMlZoWTJOdmRXNTBJaXdpYTNWaVpYSnVaWFJsY3k1cGJ5OXpaWEoyYVdObFlXTmpiM1Z1ZEM5dVlXMWxjM0JoWTJVaU9pSmtaV1poZFd4MElpd2lhM1ZpWlhKdVpYUmxjeTVwYnk5elpYSjJhV05sWVdOamIzVnVkQzl6WldOeVpYUXVibUZ0WlNJNkltUmxabUYxYkhRdGRHOXJaVzR0YUhSbU9XMGlMQ0pyZFdKbGNtNWxkR1Z6TG1sdkwzTmxjblpwWTJWaFkyTnZkVzUwTDNObGNuWnBZMlV0WVdOamIzVnVkQzV1WVcxbElqb2laR1ZtWVhWc2RDSXNJbXQxWW1WeWJtVjBaWE11YVc4dmMyVnlkbWxqWldGalkyOTFiblF2YzJWeWRtbGpaUzFoWTJOdmRXNTBMblZwWkNJNkltRXdPVEJtWVRNM0xXSTNPREV0TVRGbE9TMWhZVGRsTFRReU1ERXdZVGhoTURJME1DSXNJbk4xWWlJNkluTjVjM1JsYlRwelpYSjJhV05sWVdOamIzVnVkRHBrWldaaGRXeDBPbVJsWm1GMWJIUWlmUS5pemE5cEQ0SmRDNHJJSllmQ3dwdzU3RzZLLVJWRE5aZUtFcmVwTE13RXIxTHc5bHczakU4NDdtZldUeWdRZjN0ajc4MkdKdkxRbWdueXFfaEtCM3lFTkNCdFZ1UVNWUGpGN2JFNHZiWTlJaUJvbjhSNFoxT2tNYXdtMmRKSWxSWmV6T2lWTkt6QTUwRnlzbklqc3ZKSThURXNBalJNOTkzNkJDNXc2QWR3Y0JPNHQtWC1kY2o2V3E3aTREeHp1QlhJYVRFdEM3UTZmUElsc0VXb2p6ZHhUallYM2ZHQ3ROWGd0QU9EeFJ4b0YzTS1NOGlPSDViZE5jRGQ0bGhQRW51UEwzVldNekItT0pQaTk0elJCS1B2azdzWWVxSHpJUkFuWWcyWVpnMThpVG9aV0d6aGM5ZGxHY2d5VTVaZm04N21VMWpDYnVVOG5uSmlEREtWWU00dmcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oYXBpX3Jlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudCgpCiAgICAgICAgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoJ2V2aW5jZWQtYnVja2V0MicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oYXBpX3Jlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgIGJ1Y2tldCA9IGNsaWVudC5nZXRfYnVja2V0KCdldmluY2VkLWJ1Y2tldDInKQogICAgYmxvYiA9IGJ1Y2tldC5ibG9iKCdwcm9kLW1vbi9hL2RvcmVrLmpzb24nKQogICAgYmxvYi51cGxvYWRfZnJvbV9zdHJpbmcoanNvbi5kdW1wcyh7J2hpJzogJ3RoZXJlJ30pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">YmxvYiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnLmxvYWRfa3ViZV9jb25maWcoKQo=</text>
+        <text encoding="base64">ICAgIGt1YmVfdGVzdF9jcmVkZW50aWFscygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a3ViZV90ZXN0X2NyZWRlbnRpYWxzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGpvYl9jcmVhdG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdUYXNrcyBhcmU6ICcsIHRhc2tzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -465,8 +484,9 @@
         <entry>׳</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi8v</entry>
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>vsp</entry>
+        <entry encoding="base64">JzwsJz5X</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
