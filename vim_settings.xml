@@ -153,11 +153,11 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/queue_publisher.py" timestamp="1579435986122">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/queue_publisher.py" timestamp="1579437720525">
+        <mark key="[" line="18" column="90" />
+        <mark key="]" line="18" column="120" />
+        <mark key="^" line="18" column="120" />
+        <mark key="." line="18" column="120" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/transform_scrapper_to_tagger_input_format.py" timestamp="1573338466450">
         <mark key="[" line="0" column="0" />
@@ -412,7 +412,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -442,8 +442,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
