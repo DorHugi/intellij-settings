@@ -21,7 +21,7 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1579422346917">
+      <file name="/a.dummy" timestamp="1579441680539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon/utils/url-manipulator.py" timestamp="1578489739410">
@@ -45,6 +45,12 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="/data-manipulator" timestamp="1578314602761">
         <mark key="[" line="0" column="0" />
@@ -87,6 +93,12 @@
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/jobCreatorDocker/job_creator.py" timestamp="1579443071369">
+        <mark key="[" line="50" column="64" />
+        <mark key="]" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+        <mark key="^" line="50" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/pyPlayground/image_tester.py" timestamp="1571751275580">
         <mark key="[" line="5" column="9" />
@@ -180,6 +192,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/job_creator.py" timestamp="1579442455560">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list_imdb.py" timestamp="1566303458270">
         <mark key="[" line="12" column="33" />
@@ -276,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" />
       <jump line="35" column="0" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" />
       <jump line="37" column="0" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" />
       <jump line="57" column="18" filename="$USER_HOME$/evinced/data-tagging/kuber-tagger/analyze_jsons.py" />
@@ -376,13 +394,14 @@
       <jump line="99" column="51" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="97" column="55" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="11" column="22" filename="$USER_HOME$/evinced/data-science/ocr-poc/image-generator/flask-server.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/job_creator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaXNoX3NpbmdsZV9tZXNzYWdlKGNoYW5uZWwsIHsndXJsJzogJ3BsZWFzZS53b3JrLmNvbScsICdidWNrZXQnOiAnZXZpbmNlZC1idWNrZXQyJywgJ2ZpbGVOYW1lJzogJ2RpZF9pX3N0dXR0ZXInfSkK</text>
+      <register name="&quot;" type="4">
+        <text>, env_vars={}</text>
       </register>
       <register name="-" type="4">
-        <text>just_a_path.json</text>
+        <text>, env_vars={}</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -391,34 +410,34 @@
         <text encoding="base64">ICAgICAgICBwdWJsaXNoX3NpbmdsZV9tZXNzYWdlKGNoYW5uZWwsIHsndXJsJzogJ3BsZWFzZS53b3JrLmNvbScsICdidWNrZXQnOiAnZXZpbmNlZC1idWNrZXQyJywgJ2ZpbGVOYW1lJzogJ2RpZF9pX3N0dXR0ZXInfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uZmlndXJhdGlvbiA9IGNsaWVudC5Db25maWd1cmF0aW9uKCkKY29uZmlndXJhdGlvbi5hcGlfa2V5WydhdXRob3JpemF0aW9uJ10gPSBUT0tFTgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VE9LRU4gPSAnZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNklpSjkuZXlKcGMzTWlPaUpyZFdKbGNtNWxkR1Z6TDNObGNuWnBZMlZoWTJOdmRXNTBJaXdpYTNWaVpYSnVaWFJsY3k1cGJ5OXpaWEoyYVdObFlXTmpiM1Z1ZEM5dVlXMWxjM0JoWTJVaU9pSmtaV1poZFd4MElpd2lhM1ZpWlhKdVpYUmxjeTVwYnk5elpYSjJhV05sWVdOamIzVnVkQzl6WldOeVpYUXVibUZ0WlNJNkltUmxabUYxYkhRdGRHOXJaVzR0YUhSbU9XMGlMQ0pyZFdKbGNtNWxkR1Z6TG1sdkwzTmxjblpwWTJWaFkyTnZkVzUwTDNObGNuWnBZMlV0WVdOamIzVnVkQzV1WVcxbElqb2laR1ZtWVhWc2RDSXNJbXQxWW1WeWJtVjBaWE11YVc4dmMyVnlkbWxqWldGalkyOTFiblF2YzJWeWRtbGpaUzFoWTJOdmRXNTBMblZwWkNJNkltRXdPVEJtWVRNM0xXSTNPREV0TVRGbE9TMWhZVGRsTFRReU1ERXdZVGhoTURJME1DSXNJbk4xWWlJNkluTjVjM1JsYlRwelpYSjJhV05sWVdOamIzVnVkRHBrWldaaGRXeDBPbVJsWm1GMWJIUWlmUS5pemE5cEQ0SmRDNHJJSllmQ3dwdzU3RzZLLVJWRE5aZUtFcmVwTE13RXIxTHc5bHczakU4NDdtZldUeWdRZjN0ajc4MkdKdkxRbWdueXFfaEtCM3lFTkNCdFZ1UVNWUGpGN2JFNHZiWTlJaUJvbjhSNFoxT2tNYXdtMmRKSWxSWmV6T2lWTkt6QTUwRnlzbklqc3ZKSThURXNBalJNOTkzNkJDNXc2QWR3Y0JPNHQtWC1kY2o2V3E3aTREeHp1QlhJYVRFdEM3UTZmUElsc0VXb2p6ZHhUallYM2ZHQ3ROWGd0QU9EeFJ4b0YzTS1NOGlPSDViZE5jRGQ0bGhQRW51UEwzVldNekItT0pQaTk0elJCS1B2azdzWWVxSHpJUkFuWWcyWVpnMThpVG9aV0d6aGM5ZGxHY2d5VTVaZm04N21VMWpDYnVVOG5uSmlEREtWWU00dmcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hfc2luZ2xlX21lc3NhZ2UoY2hhbm5lbCwgJ1NlY29uZCBtZXNzYWdlJykKICAgIHB1Ymxpc2hfc2luZ2xlX21lc3NhZ2UoY2hhbm5lbCwgJ1RoaXJkIG1lc3NhZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oYXBpX3Jlc3BvbnNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oYXBpX3Jlc3BvbnNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwuYmFzaWNfcHVibGlzaChleGNoYW5nZT0nJywKICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2tleT0naGVsbG8nLAogICAgICAgICAgICAgICAgICAgICAgICAgIGJvZHk9J01lc3NhZ2UgMSwgcGxlYXNlIHdvcmsnKQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgQUREUkVTUyA9ICcnCg==</text>
+        <text encoding="base64">Y29uZmlnLmxvYWRfa3ViZV9jb25maWcoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd1cmxzX2xpc3RfcGF0aDonLCBhcmdzLnVybHNfbGlzdF9wYXRoKTsK</text>
+        <text encoding="base64">a3ViZV90ZXN0X2NyZWRlbnRpYWxzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q01EIFsibnBtIiwgInJ1biIsICJidWlsZCJdICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -447,9 +466,9 @@
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vsp</entry>
+        <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
