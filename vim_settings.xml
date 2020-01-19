@@ -138,12 +138,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" timestamp="1579451595054">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" timestamp="1579452312618">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="103" column="24" />
-        <mark key="]" line="103" column="24" />
-        <mark key="." line="103" column="24" />
-        <mark key="^" line="103" column="24" />
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="63" />
+        <mark key="." line="71" column="17" />
+        <mark key="^" line="139" column="53" />
       </file>
       <file name="$USER_HOME$/evinced/myResearchScrappers/wixAriaRoles/wixAriaRoles/spiders/wix_spider.py" timestamp="1566127351838">
         <mark key="'" line="30" column="27" />
@@ -418,46 +418,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'evinced-bucket2'</text>
+        <text>parallelism, completions</text>
       </register>
       <register name="-" type="4">
-        <text>'evinced-bucket2'</text>
+        <text>parallelism, completions</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xpZW50ID0gc3RvcmFnZS5DbGllbnQoKQpidWNrZXQgPSBjbGllbnQuZ2V0X2J1Y2tldCgnZXZpbmNlZC1idWNrZXQyJykKYmxvYiA9IGJ1Y2tldC5ibG9iKCdwcm9kLW1vbi9hL2RvcmVrLmpzb24nKQpibG9iLnVwbG9hZF9mcm9tX3N0cmluZyhqc29uLmR1bXBzKHsnaGknOid0aGVyZSd9KSkK</text>
+      <register name="0" type="4">
+        <text>queue_name, job_name, parallelism, completions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+        <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudCgpCiAgICAgICAgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoJ2V2aW5jZWQtYnVja2V0MicpCg==</text>
+        <text encoding="base64">ICAgIG51bWJlcl9vZl90YXNrcyA9IDIwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgIGJ1Y2tldCA9IGNsaWVudC5nZXRfYnVja2V0KCdldmluY2VkLWJ1Y2tldDInKQogICAgYmxvYiA9IGJ1Y2tldC5ibG9iKCdwcm9kLW1vbi9hL2RvcmVrLmpzb24nKQogICAgYmxvYi51cGxvYWRfZnJvbV9zdHJpbmcoanNvbi5kdW1wcyh7J2hpJzogJ3RoZXJlJ30pKQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdHNfZGlyID0gJ3Byb2QtbW9uL3Rhc2tzL3t9L3Jlc3VsdHMnLmZvcm1hdChxdWV1ZV9uYW1lKQogICAgcmVzb3VyY2VzX2RpciA9ICdwcm9kLW1vbi90YXNrcy97fS9yZXNvdXJjZXMnLmZvcm1hdChxdWV1ZV9uYW1lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmxvYiAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnU2FiYWJhJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGt1YmVfdGVzdF9jcmVkZW50aWFscygpCg==</text>
+        <text encoding="base64">ICAgIHB1Ygo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpvYl9jcmVhdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudCgpCiAgICAgICAgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoJ2V2aW5jZWQtYnVja2V0MicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdUYXNrcyBhcmU6ICcsIHRhc2tzKQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgIGJ1Y2tldCA9IGNsaWVudC5nZXRfYnVja2V0KCdldmluY2VkLWJ1Y2tldDInKQogICAgYmxvYiA9IGJ1Y2tldC5ibG9iKCdwcm9kLW1vbi9hL2RvcmVrLmpzb24nKQogICAgYmxvYi51cGxvYWRfZnJvbV9zdHJpbmcoanNvbi5kdW1wcyh7J2hpJzogJ3RoZXJlJ30pKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -487,9 +487,9 @@
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
