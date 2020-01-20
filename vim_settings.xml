@@ -272,6 +272,13 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" timestamp="1579511255293">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/pyPlayground/playground.py" timestamp="1563194137885">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="14" />
@@ -305,9 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="22" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/spiders/wix_spider.py" />
-      <jump line="16" column="24" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
       <jump line="530" column="23" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
       <jump line="782" column="63" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
       <jump line="0" column="23" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
@@ -405,19 +409,22 @@
       <jump line="45" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
       <jump line="20" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
       <jump line="128" column="27" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
+      <jump line="33" column="24" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
+      <jump line="12" column="41" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
+      <jump line="17" column="33" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MycK</text>
+      <register name="&quot;" type="4">
+        <text>debug=True</text>
       </register>
       <register name="-" type="4">
-        <text>parallelism, completions</text>
+        <text>debug=True</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="4">
-        <text>queue_name, job_name, parallelism, completions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFwcC5ydW4oZGVidWc9VHJ1ZSwgcG9ydD04ODg4KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MycK</text>
