@@ -183,7 +183,7 @@
         <mark key="." line="71" column="47" />
         <mark key="^" line="71" column="47" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1578918182502">
+      <file name="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" timestamp="1579534751192">
         <mark key="'" line="97" column="55" />
         <mark key="[" line="90" column="23" />
         <mark key="]" line="90" column="39" />
@@ -291,12 +291,12 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" timestamp="1579521826553">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="149" column="45" />
-        <mark key="]" line="149" column="45" />
-        <mark key="." line="149" column="45" />
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" timestamp="1579534652556">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="135" column="4" />
+        <mark key="]" line="136" column="20" />
+        <mark key="." line="136" column="20" />
+        <mark key="^" line="136" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/pyPlayground/playground.py" timestamp="1563194137885">
         <mark key="[" line="22" column="14" />
@@ -331,10 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="23" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
-      <jump line="782" column="63" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
-      <jump line="0" column="23" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/running_example" />
-      <jump line="31" column="0" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
       <jump line="29" column="28" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
       <jump line="21" column="75" filename="$USER_HOME$/evinced/prod-mon/scrapper/random-chooser.py" />
       <jump line="60" column="0" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
@@ -431,46 +427,50 @@
       <jump line="33" column="24" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
       <jump line="12" column="41" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
       <jump line="17" column="33" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
+      <jump line="134" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
+      <jump line="197" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loads</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loads</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oZGVidWc9VHJ1ZSwgcG9ydD04ODg4KQo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RfanNvbiA9IHJlcXVlc3QuZ2V0X2pzb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6CiAgICAgICAgICBsaW1pdHM6CiAgICAgICAgICAgIGNwdTogMTAwbQo=</text>
+        <text encoding="base64">ICAgIGpzb24uZHVtcHMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MycK</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MicK</text>
+        <text encoding="base64">ICAgIGRiID0gbW9uZ29fY2xpZW50Lm1haW4KICAgIGNvbGxlY3Rpb24gPSBkYlsncHJvZG1vbl9yYXdfZGF0YSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlX25hbWUgPSAndHJ5b3V0MicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9vZl90YXNrcyA9IDIwCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHNfZGlyID0gJ3Byb2QtbW9uL3Rhc2tzL3t9L3Jlc3VsdHMnLmZvcm1hdChxdWV1ZV9uYW1lKQogICAgcmVzb3VyY2VzX2RpciA9ICdwcm9kLW1vbi90YXNrcy97fS9yZXNvdXJjZXMnLmZvcm1hdChxdWV1ZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihvdXRwdXRfZmlsZV9mdWxsX25hbWUsICd3JykgYXMgZmg6CiAgICAgICAgcHJpbnQoJ1NhdmluZyBmaWxlOicsIG91dHB1dF9maWxlX2Z1bGxfbmFtZSkKICAgICAgICBqc29uLmR1bXAocmVzX2pzb24sIGZoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnU2FiYWJhJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1Ygo=</text>
+        <text encoding="base64">ICAgIG91dHB1dF9maWxlX2Z1bGxfbmFtZSA9IGFyZ3Mub3V0cHV0X2ZpbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MudXNlX3NlbGVjdG9yX2NvbXBvbmVudHM6CiAgICAgICAgcHJpbnQoJ0dPVCBIRVJFJykKICAgICAgICBuID0gYXJncy51c2Vfc2VsZWN0b3JfY29tcG9uZW50cwogICAgICAgIG5fbW9zdF9jb21tb25fc2VsZWN0b3JzID0gc2V0KFt4WzBdIGZvciB4IGluIGNvdW50ZXIubW9zdF9jb21tb24obildKQogICAgICAgIGZvciB2YWxpZGF0aW9uIGluIHZhbGlkYXRpb25zX2xpc3Q6CiAgICAgICAgICAgIGNvbXBvbmVudCA9IERFRkFVTFRfQ09NUE9ORU5UCiAgICAgICAgICAgIGlmIHZhbGlkYXRpb25bJ3NlbGVjdG9yJ10gaW4gbl9tb3N0X2NvbW1vbl9zZWxlY3RvcnM6CiAgICAgICAgICAgICAgICBjb21wb25lbnQgPSB2YWxpZGF0aW9uWydzZWxlY3RvciddCiAgICAgICAgICAgIHZhbGlkYXRpb25bJ2NvbXBvbmVudCddID0gY29tcG9uZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -504,6 +504,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vsp</entry>
         <entry>wa</entry>
+        <entry>Wa</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
