@@ -447,7 +447,7 @@
         <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudCgpCiAgICAgICAgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoJ2V2aW5jZWQtYnVja2V0MicpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -478,8 +478,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
