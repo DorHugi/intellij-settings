@@ -134,7 +134,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" timestamp="1579500933632">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" timestamp="1579502619374">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="46" column="62" />
         <mark key="]" line="46" column="63" />
@@ -447,7 +447,7 @@
         <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudCgpCiAgICAgICAgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoJ2V2aW5jZWQtYnVja2V0MicpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -478,8 +478,8 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
