@@ -46,7 +46,6 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/playground.py" timestamp="1579522096479" />
       <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/crawler.py" timestamp="1566300116573">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="7" />
@@ -248,7 +247,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1578314615678">
+      <file name="/Dummy.txt" timestamp="1579595529612">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/data-tagging/kuber-tagger/scrapper_to_tagger_formatter.py" timestamp="1573649730215">
