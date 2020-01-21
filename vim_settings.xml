@@ -21,12 +21,6 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-controller.yaml" timestamp="1579513832513">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-      </file>
       <file name="/a.dummy" timestamp="1579441680539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,13 +283,6 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" timestamp="1579535598703">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="135" column="39" />
-        <mark key="]" line="136" column="14" />
-        <mark key="." line="136" column="14" />
-        <mark key="^" line="136" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/pyPlayground/playground.py" timestamp="1563194137885">
         <mark key="[" line="22" column="14" />
