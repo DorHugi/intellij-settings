@@ -257,13 +257,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580127023612">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580130620693">
         <mark key="a" line="116" column="22" />
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="103" column="86" />
+        <mark key="]" line="103" column="101" />
+        <mark key="^" line="103" column="101" />
+        <mark key="." line="103" column="101" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -324,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="41" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="4" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="36" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -424,6 +423,7 @@
       <jump line="91" column="28" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="72" column="78" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="115" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="96" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,38 +435,38 @@
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvZHkuc3BlYyA9IGNsaWVudC5WMUpvYlNwZWModHRsX3NlY29uZHNfYWZ0ZXJfZmluaXNoZWQ9NjAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZT10ZW1wbGF0ZS50ZW1wbGF0ZSwgcGFyYWxsZWxpc209cGFyYWxsZWxpc20sIGNvbXBsZXRpb25zPWNvbXBsZXRpb25zKQo=</text>
+      <register name="0" type="4">
+        <text>ignore_https_errors'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvZHkuc3BlYyA9IGNsaWVudC5WMUpvYlNwZWModHRsX3NlY29uZHNfYWZ0ZXJfZmluaXNoZWQ9NjAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZT10ZW1wbGF0ZS50ZW1wbGF0ZSwgcGFyYWxsZWxpc209cGFyYWxsZWxpc20sIGNvbXBsZXRpb25zPWNvbXBsZXRpb25zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBpZiAocHVwcGV0ZWVyX2FyZ3MgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwdXBwZXRlZXJfYXJncyddID0gcHVwcGV0ZWVyX2FyZ3MKICAgICAgICAjIGlmIChwYXJhbGxlbF9udW0gIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwYXJhbGxlbF9udW0nXSA9IHBhcmFsbGVsX251bQogICAgICAgICMgaWYgKGlnbm9yZV9odHRwc19lcnJvcnMgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydpZ25vcmVfaHR0cHNfZXJyb3JzJ10gPSBpZ25vcmVfaHR0cHNfZXJyb3JzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGpzb24uZHVtcHMoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMoKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRiID0gbW9uZ29fY2xpZW50Lm1haW4KICAgIGNvbGxlY3Rpb24gPSBkYlsncHJvZG1vbl9yYXdfZGF0YSddCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgcHVwcGV0ZWVyX2FyZ3MgPSBOb25lIGlmIHJlcXVlc3RfanNvbi5nZXQoCiAgICAjICAgICAncHVwcGV0ZWVyX2FyZ3MnKSBlbHNlIHJlcXVlc3RfanNvblsncHVwcGV0ZWVyX2FyZ3MnXQogICAgIyBwYXJhbGxlbF9udW0gPSBOb25lIGlmIHJlcXVlc3RfanNvbi5nZXQoCiAgICAjICAgICAncGFyYWxsZWxfbnVtJykgZWxzZSByZXF1ZXN0X2pzb25bJ3BhcmFsbGVsX251bSddCiAgICAjIGlnbm9yZV9odHRwc19lcnJvcnMgPSBOb25lIGlmIHJlcXVlc3RfanNvbi5nZXQoCiAgICAjICAgICAnaWdub3JlX2h0dHBzX2Vycm9ycycpIGVsc2UgcmVxdWVzdF9qc29uWydpZ25vcmVfaHR0cHNfZXJyb3JzJ10K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJvZHkuc3BlYyA9IGNsaWVudC5WMUpvYlNwZWModHRsX3NlY29uZHNfYWZ0ZXJfZmluaXNoZWQ9NjAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZT10ZW1wbGF0ZS50ZW1wbGF0ZSwgcGFyYWxsZWxpc209cGFyYWxsZWxpc20sIGNvbXBsZXRpb25zPWNvbXBsZXRpb25zKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihvdXRwdXRfZmlsZV9mdWxsX25hbWUsICd3JykgYXMgZmg6CiAgICAgICAgcHJpbnQoJ1NhdmluZyBmaWxlOicsIG91dHB1dF9maWxlX2Z1bGxfbmFtZSkKICAgICAgICBqc29uLmR1bXAocmVzX2pzb24sIGZoKQo=</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -495,11 +495,11 @@
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
-        <entry>vsp</entry>
-        <entry>w</entry>
         <entry>Wa</entry>
+        <entry>vsp</entry>
+        <entry>W</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
