@@ -257,13 +257,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580132278085">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580142346445">
         <mark key="a" line="116" column="22" />
-        <mark key="'" line="85" column="58" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
+        <mark key="'" line="199" column="30" />
+        <mark key="[" line="182" column="43" />
+        <mark key="]" line="182" column="52" />
+        <mark key="^" line="182" column="52" />
+        <mark key="." line="182" column="52" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -324,11 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="4" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="33" column="34" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="87" column="12" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="70" column="4" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="20" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="84" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="77" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -424,49 +419,54 @@
       <jump line="61" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="79" column="35" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="85" column="58" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="86" column="24" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="190" column="32" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="199" column="30" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MONGO_DB_SERVICE_SERVICE_HOST</text>
+        <text encoding="base64">IC0gdF9zdGFydA==</text>
       </register>
       <register name="-" type="4">
-        <text>MONGO_DB_SERVICE_SERVICE_HOST</text>
+        <text encoding="base64">IC0gdF9zdGFydA==</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
-      <register name="0" type="4">
-        <text>ignore_https_errors'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcC5tYXAobGFtYmRhIHg6IHguZG93bmxvYWRzX2FzX3N0cmluZygpLCBibG9ic19saXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FuYWx5c2lzUmVzdWx0IGlzIGluIHY/ICcsICdhbmFseXNpc1Jlc3VsdCcgaW4gdikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBpZiAocHVwcGV0ZWVyX2FyZ3MgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwdXBwZXRlZXJfYXJncyddID0gcHVwcGV0ZWVyX2FyZ3MKICAgICAgICAjIGlmIChwYXJhbGxlbF9udW0gIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwYXJhbGxlbF9udW0nXSA9IHBhcmFsbGVsX251bQogICAgICAgICMgaWYgKGlnbm9yZV9odHRwc19lcnJvcnMgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydpZ25vcmVfaHR0cHNfZXJyb3JzJ10gPSBpZ25vcmVfaHR0cHNfZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmKHgpOgogICAgICAgIHJldHVybiB4LmRvd25sb2Fkc19hc19zdHJpbmcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxyaW50KCcnKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHVwcGV0ZWVyX2FyZ3MgPSBOb25lIGlmIHJlcXVlc3RfanNvbi5nZXQoCiAgICAjICAgICAncHVwcGV0ZWVyX2FyZ3MnKSBlbHNlIHJlcXVlc3RfanNvblsncHVwcGV0ZWVyX2FyZ3MnXQogICAgIyBwYXJhbGxlbF9udW0gPSBOb25lIGlmIHJlcXVlc3RfanNvbi5nZXQoCiAgICAjICAgICAncGFyYWxsZWxfbnVtJykgZWxzZSByZXF1ZXN0X2pzb25bJ3BhcmFsbGVsX251bSddCiAgICAjIGlnbm9yZV9odHRwc19lcnJvcnMgPSBOb25lIGlmIHJlcXVlc3RfanNvbi5nZXQoCiAgICAjICAgICAnaWdub3JlX2h0dHBzX2Vycm9ycycpIGVsc2UgcmVxdWVzdF9qc29uWydpZ25vcmVfaHR0cHNfZXJyb3JzJ10K</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvZHkuc3BlYyA9IGNsaWVudC5WMUpvYlNwZWModHRsX3NlY29uZHNfYWZ0ZXJfZmluaXNoZWQ9NjAwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZT10ZW1wbGF0ZS50ZW1wbGF0ZSwgcGFyYWxsZWxpc209cGFyYWxsZWxpc20sIGNvbXBsZXRpb25zPWNvbXBsZXRpb25zKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgIyBpZiAocHVwcGV0ZWVyX2FyZ3MgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwdXBwZXRlZXJfYXJncyddID0gcHVwcGV0ZWVyX2FyZ3MKICAgICAgICAjIGlmIChwYXJhbGxlbF9udW0gIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwYXJhbGxlbF9udW0nXSA9IHBhcmFsbGVsX251bQogICAgICAgICMgaWYgKGlnbm9yZV9odHRwc19lcnJvcnMgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydpZ25vcmVfaHR0cHNfZXJyb3JzJ10gPSBpZ25vcmVfaHR0cHNfZXJyb3JzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -498,8 +498,8 @@
         <entry>Wa</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
