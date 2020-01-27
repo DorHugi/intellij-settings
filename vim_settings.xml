@@ -257,13 +257,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580130620693">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580132278085">
         <mark key="a" line="116" column="22" />
-        <mark key="'" line="96" column="16" />
-        <mark key="[" line="103" column="86" />
-        <mark key="]" line="103" column="101" />
-        <mark key="^" line="103" column="101" />
-        <mark key="." line="103" column="101" />
+        <mark key="'" line="85" column="58" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -324,10 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="73" column="4" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="33" column="34" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="87" column="12" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -424,13 +420,17 @@
       <jump line="72" column="78" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="115" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="96" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="135" column="47" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="61" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="79" column="35" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="85" column="58" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MONGO_DB_SERVICE_SERVICE_HOST</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MONGO_DB_SERVICE_SERVICE_HOST</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
