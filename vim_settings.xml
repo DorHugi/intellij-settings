@@ -257,13 +257,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580220956402">
-        <mark key="a" line="116" column="22" />
-        <mark key="'" line="199" column="30" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="^" line="182" column="52" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580223176830">
+        <mark key="a" line="170" column="12" />
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="181" column="15" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -324,12 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="21" column="5" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="0" column="0" filename="/data-manipulator.py" />
-      <jump line="46" column="38" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="15" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="58" column="43" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -424,10 +418,16 @@
       <jump line="175" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="173" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="199" column="30" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="273" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="289" column="15" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnRlbnQgPSBwLm1hcChsYW1iZGEgeDogeC5kb3dubG9hZHNfYXNfc3RyaW5nKCksIGJsb2JzX2xpc3QpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0gdF9zdGFydA==</text>
@@ -439,31 +439,31 @@
         <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcC5tYXAobGFtYmRhIHg6IHguZG93bmxvYWRzX2FzX3N0cmluZygpLCBibG9ic19saXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnRlbnQgPSBwLm1hcChsYW1iZGEgeDogeC5kb3dubG9hZHNfYXNfc3RyaW5nKCksIGJsb2JzX2xpc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
+        <text encoding="base64">ICAgICMgZm9yIGJsb2IgaW4gYmxvYnNfbGlzdDoKICAgICAgICAjIGNvbnRlbnQuYXBwZW5kKGJsb2IuZG93bmxvYWRfYXNfc3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FuYWx5c2lzUmVzdWx0IGlzIGluIHY/ICcsICdhbmFseXNpc1Jlc3VsdCcgaW4gdikK</text>
+        <text encoding="base64">ICAgICMgZm9yIGJsb2IgaW4gYmxvYnNfbGlzdDoKICAgICAgICAjIGNvbnRlbnQuYXBwZW5kKGJsb2IuZG93bmxvYWRfYXNfc3RyaW5nKCkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBmKHgpOgogICAgICAgIHJldHVybiB4LmRvd25sb2Fkc19hc19zdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdUaW1lIHRvIGRvd25sb2FkIGNvbnRlbnQ6JywgdGltZSgpIC0gdF9nZXRfYmxvYnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHRfZ2V0X2Jsb2JzID0gdGltZSgpCiAgICBwcmludCgnVGltZSB0byBnZXQgYmxvYnM6JywgdF9nZXRfYmxvYnMgLSB0X3N0YXJ0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRfc3RhcnQgPSB0aW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxyaW50KCcnKQo=</text>
+        <text encoding="base64">IyBkZWYgZih4KToKIyAgICAgcmV0dXJuIHguZG93bmxvYWRfYXNfc3RyaW5nKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -497,6 +497,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wa</entry>
         <entry>vsp</entry>
+        <entry>׳ש</entry>
         <entry>W</entry>
         <entry>wa</entry>
         <entry>w</entry>
