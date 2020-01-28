@@ -53,6 +53,10 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/google/cloud/client.py" timestamp="1580226113002">
+        <mark key="a" line="133" column="34" />
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="/data-manipulator" timestamp="1578314602761">
         <mark key="[" line="0" column="0" />
       </file>
@@ -258,14 +262,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580225526575">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580226897959">
         <mark key="a" line="181" column="0" />
         <mark key="b" line="36" column="36" />
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="56" column="68" />
-        <mark key="]" line="56" column="78" />
-        <mark key="^" line="56" column="78" />
-        <mark key="." line="56" column="78" />
+        <mark key="[" line="197" column="22" />
+        <mark key="]" line="197" column="25" />
+        <mark key="^" line="197" column="25" />
+        <mark key="." line="197" column="25" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -326,11 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
-      <jump line="20" column="21" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/spiders/DomainSpider.py" />
       <jump line="65" column="1" filename="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/website_domain_scrapper/settings.py" />
       <jump line="37" column="45" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
       <jump line="50" column="8" filename="$USER_HOME$/evinced/prod-mon/utils/data-manipulator.py" />
@@ -426,46 +424,51 @@
       <jump line="186" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="100" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="36" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="131" column="34" filename="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/google/cloud/client.py" />
+      <jump line="52" column="28" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/google/cloud/client.py" />
+      <jump line="192" column="12" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
+      <jump line="195" column="14" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>compute_engine.Credentials()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>compute_engine.Credentials()</text>
+        <text>_http=requests_session, credentials=credentials, project='ds-research-1'</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcC5tYXAobGFtYmRhIHg6IHguZG93bmxvYWRzX2FzX3N0cmluZygpLCBibG9ic19saXN0KQo=</text>
+        <text encoding="base64">YnVja2V0ID0gc3RvcmFnZV9jbGllbnQuZ2V0X2J1Y2tldChCVUNLRVQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUuYXV0aCBpbXBvcnQgY29tcHV0ZV9lbmdpbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIG5ld19idWNrZXQgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5hZGFwdGVycyBpbXBvcnQgSFRUUEFkYXB0ZXIK</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUub2F1dGgyIGltcG9ydCBzZXJ2aWNlX2FjY291bnQKY3JlZGVudGlhbHMgPSBzZXJ2aWNlX2FjY291bnQuQ3JlZGVudGlhbHMuZnJvbV9zZXJ2aWNlX2FjY291bnRfZmlsZShvcy5lbnZpcm9uWydHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFMnXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBrdWJlcm5ldGVzLmNsaWVudC5yZXN0IGltcG9ydCBBcGlFeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgo=</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUuYXV0aCBpbXBvcnQgY29tcHV0ZV9lbmdpbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnRlbnQgPSBwLm1hcChsYW1iZGEgeDogeC5kb3dubG9hZHNfYXNfc3RyaW5nKCksIGJsb2JzX2xpc3QpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGJsb2IgaW4gYmxvYnNfbGlzdDoKICAgICAgICAjIGNvbnRlbnQuYXBwZW5kKGJsb2IuZG93bmxvYWRfYXNfc3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5hZGFwdGVycyBpbXBvcnQgSFRUUEFkYXB0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGJsb2IgaW4gYmxvYnNfbGlzdDoKICAgICAgICAjIGNvbnRlbnQuYXBwZW5kKGJsb2IuZG93bmxvYWRfYXNfc3RyaW5nKCkpCgo=</text>
+        <text encoding="base64">ZnJvbSBrdWJlcm5ldGVzLmNsaWVudC5yZXN0IGltcG9ydCBBcGlFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdUaW1lIHRvIGRvd25sb2FkIGNvbnRlbnQ6JywgdGltZSgpIC0gdF9nZXRfYmxvYnMpCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -497,10 +500,10 @@
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>Wa</entry>
-        <entry>vsp</entry>
         <entry>׳ש</entry>
+        <entry>vsp</entry>
         <entry>W</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
