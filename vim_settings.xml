@@ -257,13 +257,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580142346445">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580220956402">
         <mark key="a" line="116" column="22" />
         <mark key="'" line="199" column="30" />
-        <mark key="[" line="182" column="43" />
-        <mark key="]" line="182" column="52" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
         <mark key="^" line="182" column="52" />
-        <mark key="." line="182" column="52" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -426,8 +426,8 @@
       <jump line="199" column="30" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0gdF9zdGFydA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRlbnQgPSBbXQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0gdF9zdGFydA==</text>
@@ -439,34 +439,34 @@
         <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcC5tYXAobGFtYmRhIHg6IHguZG93bmxvYWRzX2FzX3N0cmluZygpLCBibG9ic19saXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FuYWx5c2lzUmVzdWx0IGlzIGluIHY/ICcsICdhbmFseXNpc1Jlc3VsdCcgaW4gdikK</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBmKHgpOgogICAgICAgIHJldHVybiB4LmRvd25sb2Fkc19hc19zdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FuYWx5c2lzUmVzdWx0IGlzIGluIHY/ICcsICdhbmFseXNpc1Jlc3VsdCcgaW4gdikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBmKHgpOgogICAgICAgIHJldHVybiB4LmRvd25sb2Fkc19hc19zdHJpbmcoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxyaW50KCcnKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxyaW50KCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBpZiAocHVwcGV0ZWVyX2FyZ3MgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwdXBwZXRlZXJfYXJncyddID0gcHVwcGV0ZWVyX2FyZ3MKICAgICAgICAjIGlmIChwYXJhbGxlbF9udW0gIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydwYXJhbGxlbF9udW0nXSA9IHBhcmFsbGVsX251bQogICAgICAgICMgaWYgKGlnbm9yZV9odHRwc19lcnJvcnMgIT0gTm9uZSk6CiAgICAgICAgIyAgICAgbXNnWydpZ25vcmVfaHR0cHNfZXJyb3JzJ10gPSBpZ25vcmVfaHR0cHNfZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -498,8 +498,8 @@
         <entry>Wa</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
