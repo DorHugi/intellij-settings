@@ -145,6 +145,12 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="15" column="51" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/utils/create-local-env.py" timestamp="1580290048511">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
+      </file>
       <file name="$USER_HOME$/evinced/prod-mon/utils/create-urls-json-from-tools-comparison.py" timestamp="1577009396458">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -431,7 +437,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>_http=requests_session, credentials=credentials, project='ds-research-1'</text>
@@ -443,31 +449,31 @@
         <text encoding="base64">YnVja2V0ID0gc3RvcmFnZV9jbGllbnQuZ2V0X2J1Y2tldChCVUNLRVQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrdWJlcm5ldGVzLmNsaWVudC5yZXN0IGltcG9ydCBBcGlFeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdHNfc2Vzc2lvbiA9IHJlcXVlc3RzLlNlc3Npb24oKQphZGFwdGVyID0gSFRUUEFkYXB0ZXIocG9vbF9tYXhzaXplPU1BWF9DT05ORUNUSU9OX1BPT0xfU0laRSkKcmVxdWVzdHNfc2Vzc2lvbi5tb3VudCgnaHR0cDovLycsIGFkYXB0ZXIpCg==</text>
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoJ0NyZWRlbnRpYWxzJywgY3JlZGVudGlhbHMpCg==</text>
+        <text encoding="base64">ZXhwb3J0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ld19idWNrZXQgPQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUub2F1dGgyIGltcG9ydCBzZXJ2aWNlX2FjY291bnQKY3JlZGVudGlhbHMgPSBzZXJ2aWNlX2FjY291bnQuQ3JlZGVudGlhbHMuZnJvbV9zZXJ2aWNlX2FjY291bnRfZmlsZShvcy5lbnZpcm9uWydHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFMnXSkK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -501,8 +507,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>׳ש</entry>
         <entry>vsp</entry>
-        <entry>W</entry>
         <entry>Wa</entry>
+        <entry>W</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
