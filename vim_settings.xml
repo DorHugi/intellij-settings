@@ -46,7 +46,6 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/miniconda3/envs/py3/lib/python3.7/site-packages/google/cloud/storage/client.py" timestamp="1580225248614" />
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="30" />
@@ -171,7 +170,7 @@
         <mark key="." line="38" column="24" />
         <mark key="^" line="38" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1579007782810">
+      <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/scrapers/python/scrapy_scrappers/utils.py" timestamp="1572781600810">
@@ -245,7 +244,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1580378909955">
+      <file name="/Dummy.txt" timestamp="1580379970562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/data-tagging/kuber-tagger/scrapper_to_tagger_formatter.py" timestamp="1573649730215">
@@ -268,13 +267,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580378822560">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580380905786">
         <mark key="a" line="211" column="0" />
         <mark key="'" line="27" column="20" />
-        <mark key="[" line="226" column="75" />
-        <mark key="]" line="226" column="74" />
-        <mark key="^" line="226" column="74" />
-        <mark key="." line="226" column="74" />
+        <mark key="[" line="226" column="76" />
+        <mark key="]" line="226" column="70" />
+        <mark key="^" line="226" column="70" />
+        <mark key="." line="226" column="70" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -477,7 +476,7 @@
         <text encoding="base64">ZGIgPSBtb25nb19jbGllbnQubWFpbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -510,8 +509,8 @@
         <entry>׳ש</entry>
         <entry>W</entry>
         <entry>Wa</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Set environment variables" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="source localenv" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server" />
+    </exec>
+  </tool>
+</toolSet>
