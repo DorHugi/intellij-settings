@@ -245,7 +245,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1579595529612">
+      <file name="/Dummy.txt" timestamp="1580378909955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/data-tagging/kuber-tagger/scrapper_to_tagger_formatter.py" timestamp="1573649730215">
@@ -268,13 +268,13 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580377491678">
-        <mark key="a" line="209" column="0" />
-        <mark key="'" line="25" column="20" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="219" column="41" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580378822560">
+        <mark key="a" line="211" column="0" />
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="226" column="75" />
+        <mark key="]" line="226" column="74" />
+        <mark key="^" line="226" column="74" />
+        <mark key="." line="226" column="74" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -477,7 +477,7 @@
         <text encoding="base64">ZGIgPSBtb25nb19jbGllbnQubWFpbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -506,12 +506,12 @@
         <entry encoding="base64">JzwsJz5zLzovOiAv</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>׳ש</entry>
-        <entry>Wa</entry>
-        <entry>W</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
+        <entry>׳ש</entry>
+        <entry>W</entry>
+        <entry>Wa</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
