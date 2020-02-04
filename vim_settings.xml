@@ -284,6 +284,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/__init__.py" timestamp="1580809833199">
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1580379970562">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,13 +323,6 @@
         <mark key="]" line="15" column="16" />
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
-      </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" timestamp="1580635765219">
-        <mark key="'" line="192" column="23" />
-        <mark key="[" line="192" column="23" />
-        <mark key="]" line="192" column="23" />
-        <mark key="^" line="192" column="23" />
-        <mark key="." line="192" column="23" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/create_input_json_from_sites_list.py" timestamp="1566302974873">
         <mark key="'" line="6" column="8" />
@@ -487,11 +485,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text />
+      <register name="&quot;" type="4">
+        <text>app</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>:</text>
@@ -527,7 +525,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmVzWydjb21wb25lbnRzJ10gPSB2YWxpZGF0aW9uWydjb21wb25lbnRzJ10KICAgICAgICAgICAgICAgICMgcmVzWydmdWxsUGF0aCddID0gdmFsaWRhdGlvblsnY29tcG9uZW50cyddWzBdLmdldCgnZnVsbFBhdGgnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -563,8 +561,8 @@
         <entry>Wa</entry>
         <entry>W</entry>
         <entry>׳ש</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
