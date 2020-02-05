@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1580893572970">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="30" column="114" />
-        <mark key="]" line="30" column="114" />
-        <mark key="." line="30" column="114" />
-        <mark key="^" line="30" column="114" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1580900221155">
+        <mark key="'" line="35" column="35" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/flask-server.py" timestamp="1579009681646">
         <mark key="[" line="11" column="13" />
@@ -39,18 +39,23 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1580890987348">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1580898052236">
         <mark key="'" line="75" column="34" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/queue_utils.py" timestamp="1580896701796">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/constants.py" timestamp="1580888872236">
         <mark key="[" line="5" column="1" />
@@ -73,12 +78,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1580894235008">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="37" />
-        <mark key="^" line="41" column="37" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1580900699891">
+        <mark key="'" line="77" column="4" />
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="33" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -86,11 +91,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/config.py" timestamp="1580892464238">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/config.py" timestamp="1580895868792">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/rabbitmq-service.yaml" timestamp="1579513702663">
         <mark key="[" line="5" column="8" />
@@ -149,12 +154,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1580892783348">
-        <mark key="'" line="7" column="33" />
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="26" column="39" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1580900211648">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -195,11 +199,11 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/run.py" timestamp="1580893412024">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="13" column="52" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/run.py" timestamp="1580900243615">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/__init__.py" timestamp="1580809833199">
         <mark key="]" line="0" column="30" />
@@ -265,12 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="27" filename="$USER_HOME$/evinced/prod-mon-mvp/hello-world/serverDocker/flask-server.py" />
-      <jump line="33" column="24" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
-      <jump line="12" column="41" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
-      <jump line="17" column="33" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
-      <jump line="134" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
       <jump line="197" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
       <jump line="13" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/flask-server.py" />
       <jump line="117" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
@@ -365,49 +363,55 @@
       <jump line="7" column="33" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
       <jump line="43" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="30" column="35" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="8" column="40" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="76" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="25" column="36" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>job_name</text>
+        <text>ingested</text>
       </register>
       <register name="-" type="4">
-        <text>job_name</text>
+        <text>ingested</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IDo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbGxlY3Rpb24udXBkYXRlX29uZSh7J25hbWUnOiBqb2JfbmFtZX0sIHsnJHNldCc6IHsnc3RhdHVzJzogY29uc3RhbnRzLkpPQl9TVEFURVMuSU5HRVNUX1NUQVJURUR9fSkK</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2dldF9pbmdlc3RlZC88am9iX25hbWU+JykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzY2FuX3NlcnZlciBpbXBvcnQgY29uc3RhbnRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpvYl9uYW1lID0gcmVxdWVzdF9qc29uWyd0YXNrX25hbWUnXQo=</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2luZ2VzdC88am9iX25hbWU+JywgbWV0aG9kcz1bJ1BPU1QnXSkKZGVmIGhhbmRsZV9pbmdlc3Qoam9iX25hbWUpOgoKICAgIGluZ2VzdC5pbmdlc3Qoam9iX25hbWUpCiAgICByZXR1cm4gJ3N1Y2Nlc3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfanNvbiA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgam9iX25hbWUgPSByZXF1ZXN0X2pzb25bJ3Rhc2tfbmFtZSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbGRlcl9wYXRoID0gcmVxdWVzdF9qc29uWydmb2xkZXJfcGF0aCddCg==</text>
+        <text encoding="base64">ICAgICMgYXBwLnJ1bihob3N0PScwLjAuMC4wJywgcG9ydD1jb25maWcuU0VSVkVSX1BPUlQsIGRlYnVnPWNvbmZpZy5TRVJWRVJfREVCVUcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU5HRVNURURfREFUQV9QQVRIX1RFTVBMQVRFID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncGVyaW9kaWMgaXMgcnVubmluZycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZpbmlzaGVkIGluZ2VzdDonLCBqb2JfbmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYl9qb2IuZ2V0KHsnc3RhdHVzJzogY29uc3RhbnRzLkpPQl9TVEFURVMuU0NSQVBFX1NUQVJURUR9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0Fib3V0IHRvIHJ1biBpbmdlc3Q6Jywgam9iX25hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHYxID0gYXBpLkJhdGNoVjFBcGkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0dvdCB0byBpZi4gSm9iOicsIGpvYl9uYW1lKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -439,14 +443,14 @@
         <entry>wq</entry>
         <entry>Vsp</entry>
         <entry>Wa</entry>
-        <entry>׳ש</entry>
         <entry encoding="base64">JzwsJz5zPSA6</entry>
         <entry>sp</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry>׳ש</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
