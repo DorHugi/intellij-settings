@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1580901475572">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1580902547848">
         <mark key="'" line="35" column="35" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="33" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/flask-server.py" timestamp="1579009681646">
         <mark key="[" line="11" column="13" />
@@ -78,12 +78,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1580901245699">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1580902620478">
         <mark key="'" line="77" column="4" />
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="34" column="33" />
-        <mark key="^" line="34" column="33" />
-        <mark key="." line="34" column="33" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -371,8 +371,8 @@
       <jump line="25" column="36" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ingested</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ingested</text>
@@ -390,25 +390,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnL2luZ2VzdC88am9iX25hbWU+JywgbWV0aG9kcz1bJ1BPU1QnXSkKZGVmIGhhbmRsZV9pbmdlc3Qoam9iX25hbWUpOgoKICAgIGluZ2VzdC5pbmdlc3Qoam9iX25hbWUpCiAgICByZXR1cm4gJ3N1Y2Nlc3MnCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL2luZ2VzdC88am9iX25hbWU+JywgbWV0aG9kcz1bJ1BPU1QnXSkKZGVmIGhhbmRsZV9pbmdlc3Qoam9iX25hbWUpOgoKICAgIGluZ2VzdC5pbmdlc3Qoam9iX25hbWUpCiAgICByZXR1cm4gJ3N1Y2Nlc3MnCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYXBwLnJ1bihob3N0PScwLjAuMC4wJywgcG9ydD1jb25maWcuU0VSVkVSX1BPUlQsIGRlYnVnPWNvbmZpZy5TRVJWRVJfREVCVUcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncGVyaW9kaWMgaXMgcnVubmluZycpCg==</text>
+        <text encoding="base64">ICAgICMgYXBwLnJ1bihob3N0PScwLjAuMC4wJywgcG9ydD1jb25maWcuU0VSVkVSX1BPUlQsIGRlYnVnPWNvbmZpZy5TRVJWRVJfREVCVUcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZpbmlzaGVkIGluZ2VzdDonLCBqb2JfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncGVyaW9kaWMgaXMgcnVubmluZycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0Fib3V0IHRvIHJ1biBpbmdlc3Q6Jywgam9iX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZpbmlzaGVkIGluZ2VzdDonLCBqb2JfbmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0dvdCB0byBpZi4gSm9iOicsIGpvYl9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0Fib3V0IHRvIHJ1biBpbmdlc3Q6Jywgam9iX25hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -448,8 +448,8 @@
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>׳ש</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
