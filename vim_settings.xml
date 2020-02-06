@@ -124,9 +124,6 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1581000912974">
-        <mark key="'" line="11" column="3" />
-      </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="29" />
@@ -356,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content_json</text>
+        <text>totalF</text>
       </register>
       <register name="-" type="4">
-        <text>content_json</text>
+        <text>totalF</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -395,7 +392,7 @@
         <text encoding="base64">ICAgIG51bWJlcl9vZl90YXNrcyA9IGludChjb25maWcuTlVNQkVSX09GX1RBU0tTKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -435,8 +432,8 @@
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jb25zdGFudHMv</entry>
         <entry>vsp</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
