@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1581007233374">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="45" column="49" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1581008876909">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="47" column="81" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/flask-server.py" timestamp="1579009681646">
         <mark key="[" line="11" column="13" />
@@ -372,46 +372,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY2FuX3NlcnZlci51dGlscyBpbXBvcnQgdXRpbHMK</text>
       </register>
       <register name="-" type="4">
-        <text>totalF</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGt1YmVybmV0ZXNfdXRpbHMuaXNfam9iX2NvbXBsZXRlZChqb2IpIGFuZCBkYl9qb2IuZ2V0KCdyZXRyeV9jb3VudCcpIDwgSk9CX01BWF9UUllPVVRTOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jb2xsZWN0aW9uLnVwZGF0ZV9vbmUoeyduYW1lJzogam9iX25hbWV9LCB7JyRzZXQnOiB7J3N0YXR1cyc6IGNvbnN0YW50cy5TQ1JBUEVfSk9CX1NUQVRFUy5JTkdFU1RfU1RBUlRFRH19KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY2FuX3NlcnZlci51dGlscyBpbXBvcnQgdXRpbHMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndG90YWxGYWlsZWRVcmxzQ291bnQnOiAxMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZGJfam9iIGFuZCAoZGJfam9iLmdldCgnc3RhdHVzJykgaW4gW2NvbnN0YW50cy5TQ1JBUEVfSk9CX1NUQVRFUy5TQ1JBUEVfU1RBUlRFRCwgY29uc3RhbnRzLlNDUkFQRV9KT0JfU1RBVEVTLklOR0VTVF9TVEFSVEVEXSkgXAogICAgICAgICAgICAgICAgICAgIGFuZCBkYl9qb2IuZ2V0KCdjb21wbGV0aW9ucycpID09IGpvYi5zdGF0dXMuc3VjY2VlZGVkOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBhZGRlZCBnZXQgc2NhbnMgbWV0aG9kIGZvciB0ZXN0aW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAndG90YWxGYWlsZWRVcmxzQ291bnQnOiAxMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICBpZiBmaW5pc2hlZAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqb2Jfc3RhdHVzID0ga3ViZXJuZXRlc191dGlscy5nZXRfam9iX3N0YXR1cyhqb2IpICAgICAgIAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBBZGQgdHJ5b3V0cyBhdHRlbXB0cwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGRlZCBnZXQgc2NhbnMgbWV0aG9kIGZvciB0ZXN0aW5nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -449,10 +449,10 @@
         <entry>׳ש</entry>
         <entry encoding="base64">JzwsJz5zL0tVQkVSTkVURVMvY29uZmlnLktVQkVSTkVURVM=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jb25zdGFudHMv</entry>
-        <entry>vsp</entry>
-        <entry>wa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>vsp</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
