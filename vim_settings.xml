@@ -60,10 +60,11 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1580898052236">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1580981660875">
+        <mark key="[" line="75" column="110" />
+        <mark key="]" line="75" column="110" />
+        <mark key="." line="75" column="110" />
+        <mark key="^" line="75" column="110" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
@@ -185,7 +186,7 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/cloud_utils.py" timestamp="1580931729914">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/cloud_utils.py" timestamp="1580981540467">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="15" column="16" />
         <mark key="." line="15" column="16" />
@@ -370,11 +371,11 @@
       <jump line="81" column="32" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VSVkVSX0RFQlVHID0gb3MuZW52aXJvblsnU0VSVkVSX0RFQlVHJ10K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgYnkgZGVmYXVsdCwgYSBmYWlsZWQgam9iIGhhcyBhbiBleHBvbmVudGlhbCBiYWNrIG9mZiwgc3RhcnRpbmcgYXQgMTBzIChhbmQgdGhlbiAyMCwgNDAsIGV0YyksIGFuZCBhIGJhY2tvZmY=</text>
       </register>
       <register name="-" type="4">
-        <text>ingested</text>
+        <text encoding="base64">ICMgYnkgZGVmYXVsdCwgYSBmYWlsZWQgam9iIGhhcyBhbiBleHBvbmVudGlhbCBiYWNrIG9mZiwgc3RhcnRpbmcgYXQgMTBzIChhbmQgdGhlbiAyMCwgNDAsIGV0YyksIGFuZCBhIGJhY2tvZmY=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IDo=</text>
