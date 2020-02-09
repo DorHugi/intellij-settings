@@ -59,12 +59,12 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1581007112431">
-        <mark key="'" line="70" column="73" />
-        <mark key="[" line="68" column="68" />
-        <mark key="]" line="68" column="73" />
-        <mark key="^" line="68" column="73" />
-        <mark key="." line="68" column="73" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1581243324838">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="66" column="55" />
+        <mark key="]" line="66" column="53" />
+        <mark key="^" line="66" column="53" />
+        <mark key="." line="66" column="53" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
@@ -149,11 +149,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/config.py" timestamp="1581241084708">
-        <mark key="[" line="11" column="55" />
-        <mark key="]" line="11" column="55" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="55" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/config.py" timestamp="1581243541058">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-service/serverDocker/rabbitmq-service.yaml" timestamp="1579513702663">
         <mark key="[" line="5" column="8" />
@@ -269,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="78" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="115" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="96" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="135" column="47" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
@@ -369,25 +368,28 @@
       <jump line="6" column="19" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
       <jump line="30" column="3" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="70" column="73" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" />
+      <jump line="66" column="12" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text>+
++</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>CPU</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jb2xsZWN0aW9uLnVwZGF0ZV9vbmUoeyduYW1lJzogam9iX25hbWV9LCB7JyRzZXQnOiB7J3N0YXR1cyc6IGNvbnN0YW50cy5TQ1JBUEVfSk9CX1NUQVRFUy5JTkdFU1RfU1RBUlRFRH19KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdDUFU6JywgY29uZmlnLldPUktFUl9DUFVfUkVRVUlSRU1FTlQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgSk9CX01BWF9SRVRSWSA9IDMK</text>
+      <register name="1" type="8">
+        <text>+
++</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgSk9CX01BWF9SRVRSWSA9IDMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -399,26 +401,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGt1YmVybmV0ZXNfdXRpbHMuaXNfam9iX2NvbXBsZXRlZChqb2IpIGFuZCBkYl9qb2IuZ2V0KCdyZXRyeV9jb3VudCcpIDwgSk9CX01BWF9UUllPVVRTOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBrdWJlcm5ldGVzX3V0aWxzLmlzX2pvYl9jb21wbGV0ZWQoam9iKSBhbmQgZGJfam9iLmdldCgnc3RhdHVzJykgPT0gY29uc3RhbnRzLlNDUkFQRV9KT0JfU1RBVEVTLlNDUkFQRV9TVEFSVEVEOgoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIGt1YmVybmV0ZXNfdXRpbHMuaXNfam9iX2NvbXBsZXRlZChqb2IpIGFuZCBkYl9qb2IuZ2V0KCdyZXRyeV9jb3VudCcpIDwgSk9CX01BWF9UUllPVVRTOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBrdWJlcm5ldGVzX3V0aWxzLmlzX2pvYl9jb21wbGV0ZWQoam9iKSBhbmQgZGJfam9iLmdldCgnc3RhdHVzJykgPT0gY29uc3RhbnRzLlNDUkFQRV9KT0JfU1RBVEVTLlNDUkFQRV9TVEFSVEVEOgoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqb2Jfc3RhdHVzID0ga3ViZXJuZXRlc191dGlscy5nZXRfam9iX3N0YXR1cyhqb2IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
-      <last-pattern>config</last-pattern>
-      <last-replace>constants</last-replace>
-      <last-substitute>config</last-substitute>
+      <last-search>CPU</last-search>
+      <last-pattern>CPU</last-pattern>
+      <last-replace>MEMORY</last-replace>
+      <last-substitute>CPU</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -431,9 +433,9 @@
         <entry encoding="base64">IDo=</entry>
         <entry>KUBERNETES</entry>
         <entry>config</entry>
+        <entry>CPU</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>.,.+1W</entry>
         <entry>׳</entry>
         <entry encoding="base64">JzwsJz5zLz0uKi8v</entry>
@@ -451,6 +453,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbmZpZy9jb25zdGFudHMv</entry>
         <entry>W</entry>
         <entry>vsp</entry>
+        <entry>s/CPU/MEMORY/g</entry>
         <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
