@@ -46,8 +46,12 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1581448189278">
-        <mark key="'" line="18" column="31" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1581449311736">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
@@ -290,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
-      <jump line="208" column="44" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="184" column="8" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="259" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="32" column="24" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
@@ -390,13 +392,15 @@
       <jump line="26" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
       <jump line="18" column="31" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" />
       <jump line="70" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="58" column="47" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://catalog.redhat.com/</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>https://catalog.redhat.com/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
