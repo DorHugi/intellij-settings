@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1581369646268">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="54" column="15" />
-        <mark key="." line="54" column="15" />
-        <mark key="^" line="54" column="15" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" timestamp="1581410995775">
+        <mark key="a" line="61" column="0" />
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/flask-server.py" timestamp="1579009681646">
         <mark key="[" line="11" column="13" />
@@ -131,12 +132,12 @@
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1581345201495">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="82" column="85" />
-        <mark key="]" line="82" column="85" />
-        <mark key="." line="82" column="85" />
-        <mark key="^" line="82" column="84" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1581410598103">
+        <mark key="'" line="147" column="8" />
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -257,19 +258,15 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1580993058155">
-        <mark key="'" line="6" column="19" />
-        <mark key="[" line="41" column="56" />
-        <mark key="]" line="41" column="88" />
-        <mark key="^" line="41" column="88" />
-        <mark key="." line="41" column="88" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1581411115532">
+        <mark key="'" line="45" column="3" />
+        <mark key="[" line="55" column="96" />
+        <mark key="]" line="56" column="89" />
+        <mark key="^" line="56" column="89" />
+        <mark key="." line="56" column="89" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="32" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
-      <jump line="199" column="30" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="273" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="289" column="15" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="28" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
@@ -366,46 +363,50 @@
       <jump line="135" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="24" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
       <jump line="31" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="63" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
+      <jump line="44" column="3" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>fields</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>fields</text>
       </register>
       <register name="/" type="4">
         <text>wa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgncGVyaW9kaWMgd29ya2VyOiBqb2IgZmluaXNoZWQsIGFib3V0IHRvIHJldHJ5IGluZ2VzdC4gSW5jcmVhc2luZyByZXRyeSBjb3VudCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfam9iX3N0YXR1c19jb2xsZWN0aW9uLnVwZGF0ZV9vbmUoeyduYW1lJzogam9iX25hbWV9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JyRzZXQnOiB7J3N0YXR1cyc6IGNvbnN0YW50cy5TQ1JBUEVfSk9CX1NUQVRFUy5JTkdFU1RfU1RBUlRFRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb21wbGV0aW9ucyc6IGNvbXBsZXRpb25zfX0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHsnc3RhdHVzJzogY29uc3RhbnRzLlNDUkFQRV9KT0JfU1RBVEVTLklOR0VTVF9TVEFSVEVELAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY29tcGxldGlvbnMnOiBjb21wbGV0aW9uc30=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3BlcmlvZGljIHdvcmtlcjogaGFuZGxpbmcgam9iOicsIGpvYl9uYW1lKQogICAgICAgICAgICBwcmludCgncGVyaW9kaWMgd29ya2VyOiBpcyBqb2IgY29tcGxldGVkID8nLCBrdWJlcm5ldGVzX3V0aWxzLmlzX2pvYl9jb21wbGV0ZWQoam9iKSkK</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIHVybHNfc2NyYXBwZWRfc3VjY2Vzc2Z1bGx5ID0gW10KICAgICMgdXJsc193aXRoX2Vycm9ycyA9IFt1cmwgZm9yIHVybCBpbiBqc29uX2NvbnRlbnQgaWYgdXJsLmdldCgnZXJyb3InKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdoYW5kbGVfcnVuX2pvYjonLCApCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3BlcmlvZGljIHdvcmtlcjogaGFuZGxpbmcgam9iOicsIGpvYl9uYW1lKQogICAgICAgICAgICBwcmludCgncGVyaW9kaWMgd29ya2VyOiBpcyBqb2IgY29tcGxldGVkID8nLCBrdWJlcm5ldGVzX3V0aWxzLmlzX2pvYl9jb21wbGV0ZWQoam9iKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdIYW5kbGluZyBnZXRfdXJsc19zZXQgJykK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdoYW5kbGVfcnVuX2pvYjonLCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -481,6 +482,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
