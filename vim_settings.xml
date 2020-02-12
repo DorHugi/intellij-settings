@@ -46,13 +46,6 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1581449311736">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="18" />
-      </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="30" />
