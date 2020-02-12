@@ -146,12 +146,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1581515091278">
-        <mark key="'" line="68" column="32" />
-        <mark key="[" line="53" column="56" />
-        <mark key="]" line="53" column="57" />
-        <mark key="^" line="53" column="57" />
-        <mark key="." line="53" column="57" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1581516254006">
+        <mark key="'" line="71" column="32" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="19" column="113" />
+        <mark key="^" line="19" column="113" />
+        <mark key="." line="19" column="113" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -432,7 +432,7 @@ res[</text>
         <text encoding="base64">ICAgIGFsbF91cmxzX3NldCA9IHNldCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -477,8 +477,8 @@ res[</text>
         <entry encoding="base64">JzwsJz5zL10gPS86</entry>
         <entry encoding="base64">JzwsJz5zL1xuLyw=</entry>
         <entry>w:w</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
