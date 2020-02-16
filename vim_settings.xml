@@ -124,6 +124,9 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/miniconda3/lib/python3.7/site-packages/kubernetes/config/kube_config.py" timestamp="1581863806699">
+        <mark key="'" line="632" column="23" />
+      </file>
       <file name="$USER_HOME$/evinced/kuber-tagger/temp_job_template.yaml" timestamp="1573399425500">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="51" />
@@ -290,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="220" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="25" column="20" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="194" column="34" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
@@ -390,6 +392,7 @@
       <jump line="54" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
       <jump line="39" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
       <jump line="25" column="29" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" />
+      <jump line="632" column="23" filename="$USER_HOME$/miniconda3/lib/python3.7/site-packages/kubernetes/config/kube_config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
