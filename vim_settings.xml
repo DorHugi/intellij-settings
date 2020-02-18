@@ -72,9 +72,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1581959135654">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582016358995">
         <mark key="'" line="14" column="0" />
-        <mark key="^" line="80" column="47" />
+        <mark key="[" line="103" column="58" />
+        <mark key="]" line="103" column="47" />
+        <mark key="^" line="103" column="47" />
+        <mark key="." line="103" column="47" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
