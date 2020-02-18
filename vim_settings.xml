@@ -134,11 +134,11 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/utils/create-local-env.py" timestamp="1581855075636">
-        <mark key="[" line="13" column="88" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-        <mark key="^" line="14" column="66" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/utils/create-local-env.py" timestamp="1582040703980">
+        <mark key="[" line="12" column="61" />
+        <mark key="]" line="12" column="61" />
+        <mark key="." line="12" column="61" />
+        <mark key="^" line="12" column="59" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon/utils/create-urls-json-from-tools-comparison.py" timestamp="1577009396458">
         <mark key="[" line="10" column="21" />
@@ -397,11 +397,11 @@
       <jump line="25" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>/var/secrets/google-kubernetes/kube-config</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
@@ -437,7 +437,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -482,8 +482,8 @@
         <entry>׳ש</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
