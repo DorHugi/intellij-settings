@@ -72,8 +72,8 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582024435278">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582040811092">
+        <mark key="'" line="93" column="36" />
         <mark key="[" line="103" column="58" />
         <mark key="]" line="56" column="34" />
         <mark key="^" line="56" column="34" />
@@ -245,7 +245,7 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" timestamp="1581958977160">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" timestamp="1582040854588">
         <mark key="'" line="25" column="23" />
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="24" />
@@ -295,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="25" column="20" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="194" column="34" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="209" column="40" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
@@ -395,6 +394,7 @@
       <jump line="39" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/db_utils.py" />
       <jump line="632" column="23" filename="$USER_HOME$/miniconda3/lib/python3.7/site-packages/kubernetes/config/kube_config.py" />
       <jump line="25" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" />
+      <jump line="93" column="36" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
