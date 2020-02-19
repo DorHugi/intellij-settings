@@ -39,12 +39,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/kubernetes_utils.py" timestamp="1582119952340">
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="33" />
-      </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/hello-world/service-account.yaml" timestamp="1579441788547">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="30" />
@@ -74,10 +68,10 @@
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582119906043">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="162" column="65" />
-        <mark key="]" line="162" column="78" />
-        <mark key="^" line="162" column="78" />
-        <mark key="." line="162" column="78" />
+        <mark key="[" line="105" column="65" />
+        <mark key="]" line="105" column="78" />
+        <mark key="^" line="105" column="78" />
+        <mark key="." line="105" column="78" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
