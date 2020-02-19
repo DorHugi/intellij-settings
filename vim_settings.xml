@@ -136,12 +136,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1582127728330">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1582131986864">
         <mark key="'" line="81" column="16" />
-        <mark key="[" line="82" column="70" />
-        <mark key="]" line="82" column="74" />
-        <mark key="." line="82" column="74" />
-        <mark key="^" line="82" column="74" />
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="101" column="38" />
+        <mark key="^" line="101" column="49" />
+        <mark key="." line="101" column="9" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -383,43 +383,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>entries</text>
+        <text>url_and_s</text>
       </register>
       <register name="-" type="4">
-        <text>entries</text>
+        <text>url_and_s</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2FuYWx5c2lzUmVzdWx0JyBpbiB1cmxfZGF0YSBhbmQgdXJsX2RhdGFbJ2FuYWx5c2lzUmVzdWx0J106Cg==</text>
+      <register name="0" type="4">
+        <text>url_to_selector_to_screenshot</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXkgPSB1cmwgKyAnKycgKyBzZWxlY3RvcgogICAgICAgICAgICAgICAgICAgIHVybF9hbmRfc2VsZWN0b3JfdG9faW1hZ2VfbWFwW2tleV0gPSBwYXRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NlbGVjdG9yU2NyZWVuc2hvdHMnaW4gdXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NlbGVjdG9yU2NyZWVuc2hvdHMnaW4gdXJsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">S1VCRV9DT05GSUdfU0VDUkVUX05BTUUgPSBvcy5lbnZpcm9uWydLVUJFX0NPTkZJR19TRUNSRVRfTkFNRSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">S1VCRV9DT05GSUdfU0VDUkVUX05BTUUgPSBvcy5lbnZpcm9uWydLVUJFX0NPTkZJR19TRUNSRVRfTkFNRSddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">S1VCRV9DT05GSUdfU0VDUkVUX05BTUUgPSBvcy5lbnZpcm9uWydLVUJFX0NPTkZJR19TRUNSRVRfTkFNRSddCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYl9zdGF0dXNfY29sbGVjdGlvbiA9IGRiX3V0aWxzLmdldF9qb2JzX2NvbGxlY3Rpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
