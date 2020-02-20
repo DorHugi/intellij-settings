@@ -66,8 +66,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582119906043">
-        <mark key="'" line="104" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582214458275">
+        <mark key="'" line="117" column="16" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -199,11 +203,11 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/run.py" timestamp="1581852375114">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="46" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/run.py" timestamp="1582213315063">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="21" column="62" />
+        <mark key="." line="21" column="62" />
+        <mark key="^" line="21" column="62" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/__init__.py" timestamp="1580809833199">
         <mark key="]" line="0" column="30" />
@@ -286,9 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="8" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
-      <jump line="364" column="41" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
-      <jump line="16" column="38" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="13" column="27" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="192" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="10" column="15" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/scan-server.py" />
@@ -386,13 +387,16 @@
       <jump line="20" column="4" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="104" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="79" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="35" column="30" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="111" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsCg==</text>
+      <register name="&quot;" type="4">
+        <text>screenshot_path</text>
       </register>
       <register name="-" type="4">
-        <text>sel</text>
+        <text>screenshot_path</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
@@ -401,31 +405,31 @@
         <text encoding="base64">ICAgIHVybF90b19zZWxlY3Rvcl90b19zY3JlZW5zaG90ID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdTYXZlZCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnc2VsZWN0b3JUb0Jib3gnOiAK</text>
+        <text encoding="base64">ICAgIHByaW50KCdTYXZpbmcgaW1hZ2U6Jywgc2NyZWVuc2hvdF9wYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndXJsX3RvX3NlbGVjdG9yX3RvX3NjcmVlbnNob3QnOiB1cmxfdG9fc2VsZWN0b3JfdG9fc2NyZWVuc2hvdAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAnZG9yJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBvcy5wYXRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdmdWxsUGFnZVNjcmVlbnNob3RQYXRoJyBpbiB1cmxfZGF0YSBhbmQgdXJsX2RhdGFbJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnXToKICAgICAgICAgICAgICAgICAgICBzZWxlY3Rvcl90b19iYm94WycnXSA9IHVybF9kYXRhWydmdWxsUGFnZVNjcmVlbnNob3RQYXRoJ10K</text>
+        <text encoding="base64">dXJsbGliLnJlcXVlc3QucmV0cmlldmUoImh0dHA6Ly8uLi4iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NlbGVjdG9yU2NyZWVuc2hvdHMnIGluIHVybF9kYXRhIGFuZCB1cmxfZGF0YVsnc2VsZWN0b3JTY3JlZW5zaG90cyddOgogICAgICAgICAgICAgICAgc2VsZWN0b3JfdG9fc2NyZWVuc2hvdFsnJ10gPSAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnc2VsZWN0b3JUb0Jib3gnOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZXkgPSB1cmwgKyAnKycgKyBzZWxlY3RvcgogICAgICAgICAgICAgICAgICAgIHVybF9hbmRfc2VsZWN0b3JfdG9faW1hZ2VfbWFwW2tleV0gPSBwYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAndXJsX3RvX3NlbGVjdG9yX3RvX3NjcmVlbnNob3QnOiB1cmxfdG9fc2VsZWN0b3JfdG9fc2NyZWVuc2hvdAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -469,12 +473,12 @@
         <entry>Vsp</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
-        <entry>Wa</entry>
         <entry>׳ש</entry>
         <entry>s/analysisResult/selectorScreenshots/g</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
+        <entry>Wa</entry>
         <entry>w</entry>
+        <entry>W</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
