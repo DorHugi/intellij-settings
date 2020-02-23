@@ -68,10 +68,6 @@
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582214458275">
         <mark key="'" line="117" column="16" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -139,13 +135,6 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1582201939202">
-        <mark key="'" line="86" column="16" />
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="107" column="57" />
-        <mark key="." line="107" column="57" />
-        <mark key="^" line="107" column="57" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -243,9 +232,6 @@
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" timestamp="1582202493499">
         <mark key="[" line="8" column="25" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/README.md" timestamp="1577361587383">
         <mark key="[" line="17" column="8" />
