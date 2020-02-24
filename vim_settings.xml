@@ -186,11 +186,11 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/run.py" timestamp="1582213315063">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/run.py" timestamp="1582534489884">
         <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="62" />
-        <mark key="." line="21" column="62" />
-        <mark key="^" line="21" column="62" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/__init__.py" timestamp="1580809833199">
         <mark key="]" line="0" column="30" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>screenshot_path</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>screenshot_path</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
