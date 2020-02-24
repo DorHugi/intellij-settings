@@ -134,10 +134,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1582535512690">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1582552107207">
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="81" column="48" />
+        <mark key="." line="81" column="48" />
+        <mark key="^" line="81" column="48" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -385,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRHVwbGljYXRlJzogcmVwb3J0X2VudHJ5LmdldCgnJykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
@@ -397,31 +398,31 @@
         <text encoding="base64">ICAgIHVybF90b19zZWxlY3Rvcl90b19zY3JlZW5zaG90ID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRHVwbGljYXRlJzogcmVwb3J0X2VudHJ5LmdldCgnJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAnZHVwbGljYXRlcycgaW4gcmVwb3J0X2VudHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNbJ2lzRHVwbGljYXRlJ10gPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCBvcwpmcm9tIGZsYXNrIGltcG9ydCBzZW5kX2ZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnL3NjcmVlbnNob3QvPHNjcmVlbnNob3RfcGF0aD4nKQpkZWYgaGFuZGxlX2dldF9zY3JlZW50c2hvdChzY3JlZW5zaG90X3BhdGgpOgogICAgIyBzY3JlZW5zaG90X3BhdGggPSAnaHR0cDovL2V2aW5jZWQtdGVtcC1zY3JlZW5zaG90cy1idWNrZXQuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kb3ItdGVzdC1zY3JlZW5zaG90cy03L2hyLnNtY2dvdi5vcmdjYWxlbmRhci1maWVsZC1ldmVudC1kYXRld2VlazIwMjAtVzMxLnBuZycKICAgIGxvY2FsX3BhdGggPSAnL3RtcC8nICsgb3MucGF0aC5iYXNlbmFtZShzY3JlZW5zaG90X3BhdGgpCiAgICB1cmxsaWIucmVxdWVzdC51cmxyZXRyaWV2ZShzY3JlZW5zaG90X3BhdGgsIGxvY2FsX3BhdGgpCgogICAgcHJpbnQoJ1NhdmluZyBpbWFnZSB0byBwYXRoOicsIGxvY2FsX3BhdGgpCiAgICBleHQgPSBvcy5wYXRoLnNwbGl0ZXh0KGxvY2FsX3BhdGgpWy0xXQogICAgcHJpbnQoJ0VYVDonLCBleHQpCiAgICBwcmludCgnUmVtb3ZpbmcgbG9jYWwgZmlsZScpCiAgICBvcy5yZW1vdmUobG9jYWxfcGF0aCkKICAgIHByaW50KCdTZW5kaW5nJykKICAgIHJldHVybiBzZW5kX2ZpbGUobG9jYWxfcGF0aCwgbWltZXR5cGU9J2ltYWdlL3t9Jy5mb3JtYXQoZXh0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCBvcwpmcm9tIGZsYXNrIGltcG9ydCBzZW5kX2ZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -469,8 +470,8 @@
         <entry>s/analysisResult/selectorScreenshots/g</entry>
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
