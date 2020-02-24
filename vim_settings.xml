@@ -66,8 +66,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582531677814">
-        <mark key="'" line="117" column="16" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1582535455358">
+        <mark key="'" line="99" column="16" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -129,6 +133,11 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1582535512690">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -224,8 +233,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" timestamp="1582202493499">
-        <mark key="[" line="8" column="25" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/periodic_tasks.py" timestamp="1582535421384">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/website_domain_scrapper/README.md" timestamp="1577361587383">
         <mark key="[" line="17" column="8" />
@@ -372,11 +384,11 @@
       <jump line="111" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
@@ -385,31 +397,31 @@
         <text encoding="base64">ICAgIHVybF90b19zZWxlY3Rvcl90b19zY3JlZW5zaG90ID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTYXZlZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTYXZpbmcgaW1hZ2U6Jywgc2NyZWVuc2hvdF9wYXRoKQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnZG9yJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBvcy5wYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXJsbGliLnJlcXVlc3QucmV0cmlldmUoImh0dHA6Ly8uLi4iCg==</text>
+        <text encoding="base64">aW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCBvcwpmcm9tIGZsYXNrIGltcG9ydCBzZW5kX2ZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnc2VsZWN0b3JUb0Jib3gnOiAK</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnL3NjcmVlbnNob3QvPHNjcmVlbnNob3RfcGF0aD4nKQpkZWYgaGFuZGxlX2dldF9zY3JlZW50c2hvdChzY3JlZW5zaG90X3BhdGgpOgogICAgIyBzY3JlZW5zaG90X3BhdGggPSAnaHR0cDovL2V2aW5jZWQtdGVtcC1zY3JlZW5zaG90cy1idWNrZXQuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9kb3ItdGVzdC1zY3JlZW5zaG90cy03L2hyLnNtY2dvdi5vcmdjYWxlbmRhci1maWVsZC1ldmVudC1kYXRld2VlazIwMjAtVzMxLnBuZycKICAgIGxvY2FsX3BhdGggPSAnL3RtcC8nICsgb3MucGF0aC5iYXNlbmFtZShzY3JlZW5zaG90X3BhdGgpCiAgICB1cmxsaWIucmVxdWVzdC51cmxyZXRyaWV2ZShzY3JlZW5zaG90X3BhdGgsIGxvY2FsX3BhdGgpCgogICAgcHJpbnQoJ1NhdmluZyBpbWFnZSB0byBwYXRoOicsIGxvY2FsX3BhdGgpCiAgICBleHQgPSBvcy5wYXRoLnNwbGl0ZXh0KGxvY2FsX3BhdGgpWy0xXQogICAgcHJpbnQoJ0VYVDonLCBleHQpCiAgICBwcmludCgnUmVtb3ZpbmcgbG9jYWwgZmlsZScpCiAgICBvcy5yZW1vdmUobG9jYWxfcGF0aCkKICAgIHByaW50KCdTZW5kaW5nJykKICAgIHJldHVybiBzZW5kX2ZpbGUobG9jYWxfcGF0aCwgbWltZXR5cGU9J2ltYWdlL3t9Jy5mb3JtYXQoZXh0KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAndXJsX3RvX3NlbGVjdG9yX3RvX3NjcmVlbnNob3QnOiB1cmxfdG9fc2VsZWN0b3JfdG9fc2NyZWVuc2hvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
