@@ -100,7 +100,7 @@
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/utils.py" timestamp="1581602083645">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/utils.py" timestamp="1583414167189">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="48" column="0" />
@@ -143,11 +143,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583411633982">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583413566260">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -395,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkX2NvbXBsZXRpb25zID0gIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text encoding="base64">ZXhwZWN0ZWRfY29tcGxldGlvbnMg</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
@@ -407,34 +407,34 @@
         <text encoding="base64">ICAgIHVybF90b19zZWxlY3Rvcl90b19zY3JlZW5zaG90ID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkX2NvbXBsZXRpb25zID0gIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfcGF0aCA9IHJlc3VsdHNfZGlyCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KQogICAgCiAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ3RoaXMgaXMgZHVwbGljYXRlIScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRHVwbGljYXRlJzogcmVwb3J0X2VudHJ5LmdldCgnJykK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfcGF0aCA9IHJlc3VsdHNfZGlyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ3RoaXMgaXMgZHVwbGljYXRlIScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAnZHVwbGljYXRlcycgaW4gcmVwb3J0X2VudHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNbJ2lzRHVwbGljYXRlJ10gPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRHVwbGljYXRlJzogcmVwb3J0X2VudHJ5LmdldCgnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAnZHVwbGljYXRlcycgaW4gcmVwb3J0X2VudHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNbJ2lzRHVwbGljYXRlJ10gPSBUcnVlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -479,9 +479,9 @@
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>Wa</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
