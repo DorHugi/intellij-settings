@@ -136,12 +136,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583419345214">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583420696076">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="108" column="38" />
-        <mark key="]" line="108" column="60" />
-        <mark key="." line="108" column="60" />
-        <mark key="^" line="108" column="60" />
+        <mark key="[" line="39" column="90" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="41" column="48" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -205,12 +205,7 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/__init__.py" timestamp="1580809833199">
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1580379970562">
+      <file name="/Dummy.txt" timestamp="1583421054839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/evinced/data-tagging/kuber-tagger/scrapper_to_tagger_formatter.py" timestamp="1573649730215">
@@ -266,11 +261,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/urls_helper.py" timestamp="1581253873705">
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/evinced/myPyUtils/scrapper_to_tagger_formatter.py" timestamp="1573649626849">
         <mark key="[" line="21" column="26" />
@@ -388,8 +378,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>url_data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnVVJMIERBVEE6JywgdXJsX2RhdGEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>url_data</text>
@@ -401,31 +391,31 @@
         <text>'componentScreenshotPlugin'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdzZWxlY3RvclRvQmJveCcgaW4gdXJsX2RhdGEgYW5kIHVybF9kYXRhWydzZWxlY3RvclRvQmJveCddOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnVVJMIERBVEE6JywgdXJsX2RhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdmdWxsUGFnZVNjcmVlbnNob3RQYXRoJyBpbiB1cmxfZGF0YSBhbmQgdXJsX2RhdGFbJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnXToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdzZWxlY3RvclRvQmJveCcgaW4gdXJsX2RhdGEgYW5kIHVybF9kYXRhWydzZWxlY3RvclRvQmJveCddOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnIGluIHVybF9kYXRhIGFuZCB1cmxfZGF0YVsnZnVsbFBhZ2VTY3JlZW5zaG90UGF0aCddOgogICAgICAgICAgICAgICAgdXJsX3RvX3NjcmVlbnNob3RbdXJsXSA9IHVybF9kYXRhWydmdWxsUGFnZVNjcmVlbnNob3RQYXRoJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdmdWxsUGFnZVNjcmVlbnNob3RQYXRoJyBpbiB1cmxfZGF0YSBhbmQgdXJsX2RhdGFbJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnXToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdjb21wb25lbnRTY3JlZW5zaG90UGx1Z2luJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnIGluIHVybF9kYXRhIGFuZCB1cmxfZGF0YVsnZnVsbFBhZ2VTY3JlZW5zaG90UGF0aCddOgogICAgICAgICAgICAgICAgdXJsX3RvX3NjcmVlbnNob3RbdXJsXSA9IHVybF9kYXRhWydmdWxsUGFnZVNjcmVlbnNob3RQYXRoJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdSZXN1bHRzIGxpc3QgbGlzdDonLCByZXN1bHRzX2xpc3RfbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdjb21wb25lbnRTY3JlZW5zaG90UGx1Z2luJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdBbGwgdXJscyBsaXN0OicsIGFsbF91cmxzX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdSZXN1bHRzIGxpc3QgbGlzdDonLCByZXN1bHRzX2xpc3RfbGlzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdBbGwgdXJscyBsaXN0OicsIGFsbF91cmxzX2xpc3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dCBzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dCBzCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
