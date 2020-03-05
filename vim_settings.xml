@@ -144,12 +144,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583423626895">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583424506518">
         <mark key="'" line="30" column="18" />
-        <mark key="[" line="114" column="106" />
-        <mark key="]" line="114" column="106" />
-        <mark key="." line="114" column="106" />
-        <mark key="^" line="82" column="53" />
+        <mark key="[" line="103" column="84" />
+        <mark key="]" line="103" column="87" />
+        <mark key="." line="103" column="87" />
+        <mark key="^" line="103" column="87" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
