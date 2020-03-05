@@ -77,11 +77,11 @@
         <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1583423757636">
-        <mark key="'" line="120" column="49" />
-        <mark key="[" line="155" column="59" />
-        <mark key="]" line="155" column="59" />
-        <mark key="^" line="155" column="33" />
-        <mark key="." line="155" column="59" />
+        <mark key="'" line="127" column="49" />
+        <mark key="[" line="162" column="59" />
+        <mark key="]" line="162" column="59" />
+        <mark key="^" line="162" column="33" />
+        <mark key="." line="162" column="59" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -144,12 +144,12 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583424506518">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583426614445">
         <mark key="'" line="30" column="18" />
-        <mark key="[" line="103" column="84" />
-        <mark key="]" line="103" column="87" />
-        <mark key="." line="103" column="87" />
-        <mark key="^" line="103" column="87" />
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="40" />
+        <mark key="." line="99" column="40" />
+        <mark key="^" line="99" column="40" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Name</text>
+        <text>componentScreenshotData</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>componentScreenshotData</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
@@ -399,31 +399,31 @@
         <text>'componentScreenshotPlugin'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGaXggYnVnIHdoZXJlIHZbJ2FuYWx5c2lzUmVzdWx0J10gaXMgTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnVVJMIERBVEE6JywgdXJsX2RhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnVVJMIERBVEE6JywgdXJsX2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGaXggYnVnIHdoZXJlIHZbJ2FuYWx5c2lzUmVzdWx0J10gaXMgTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdzZWxlY3RvclRvQmJveCcgaW4gdXJsX2RhdGEgYW5kIHVybF9kYXRhWydzZWxlY3RvclRvQmJveCddOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnVVJMIERBVEE6JywgdXJsX2RhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdmdWxsUGFnZVNjcmVlbnNob3RQYXRoJyBpbiB1cmxfZGF0YSBhbmQgdXJsX2RhdGFbJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnXToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnIGluIHVybF9kYXRhIGFuZCB1cmxfZGF0YVsnZnVsbFBhZ2VTY3JlZW5zaG90UGF0aCddOgogICAgICAgICAgICAgICAgdXJsX3RvX3NjcmVlbnNob3RbdXJsXSA9IHVybF9kYXRhWydmdWxsUGFnZVNjcmVlbnNob3RQYXRoJ10K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnVVJMIERBVEE6JywgdXJsX2RhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdjb21wb25lbnRTY3JlZW5zaG90UGx1Z2luJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdzZWxlY3RvclRvQmJveCcgaW4gdXJsX2RhdGEgYW5kIHVybF9kYXRhWydzZWxlY3RvclRvQmJveCddOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdSZXN1bHRzIGxpc3QgbGlzdDonLCByZXN1bHRzX2xpc3RfbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdmdWxsUGFnZVNjcmVlbnNob3RQYXRoJyBpbiB1cmxfZGF0YSBhbmQgdXJsX2RhdGFbJ2Z1bGxQYWdlU2NyZWVuc2hvdFBhdGgnXToK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
