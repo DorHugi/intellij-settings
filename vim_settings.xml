@@ -75,12 +75,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1583411536036">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" timestamp="1583415990267">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="105" column="5" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="105" column="0" />
+        <mark key="[" line="98" column="42" />
+        <mark key="]" line="100" column="24" />
+        <mark key="." line="100" column="24" />
+        <mark key="^" line="100" column="24" />
       </file>
       <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/__init__.py" timestamp="1580639384648">
         <mark key="[" line="7" column="0" />
@@ -142,12 +142,6 @@
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" timestamp="1583413566260">
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
       </file>
       <file name="/Python Console" timestamp="1580380065531">
         <mark key="[" line="0" column="0" />
@@ -237,7 +231,7 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/cloud_utils.py" timestamp="1581514909113">
+      <file name="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/utils/cloud_utils.py" timestamp="1583414806389">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="15" column="16" />
         <mark key="." line="15" column="16" />
@@ -292,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server.py" />
       <jump line="10" column="15" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/scan-server.py" />
       <jump line="346" column="14" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan-server/scan-server.py" />
       <jump line="17" column="20" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
@@ -392,13 +385,14 @@
       <jump line="111" column="16" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="108" column="23" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
       <jump line="29" column="0" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/routes.py" />
+      <jump line="28" column="29" filename="$USER_HOME$/evinced/prod-mon-mvp/scan-app/scan-server/scan_server/ingest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX2NvbXBsZXRpb25zID0gIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X2pzb24udXBkYXRlKHJlcXVlc3RfanNvblsnZXRjJ10pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwZWN0ZWRfY29tcGxldGlvbnMg</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text>analysisResult</text>
@@ -407,34 +401,34 @@
         <text encoding="base64">ICAgIHVybF90b19zZWxlY3Rvcl90b19zY3JlZW5zaG90ID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkX2NvbXBsZXRpb25zID0gIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0X2pzb24udXBkYXRlKHJlcXVlc3RfanNvblsnZXRjJ10pCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KQogICAgCiAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3RfanNvbiA9IHJlcXVlc3QuZ2V0X2pzb24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlucHV0X2ZpbGVfcGF0aCA9IHJlcXVlc3RfanNvblsnaW5wdXRfZmlsZSddCiAgICBqb2JfbmFtZSA9IHJlcXVlc3RfanNvblsndGFza19uYW1lJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfcGF0aCA9IHJlc3VsdHNfZGlyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ3RoaXMgaXMgZHVwbGljYXRlIScpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2lzRHVwbGljYXRlJzogcmVwb3J0X2VudHJ5LmdldCgnJykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGdldF9jb250ZW50X2Zyb21fc3RvcmFnZShmaWxlX3BhdGgpOgogICAgcHJpbnQoJ2ZpbGUgcGF0aCBpczonLCBmaWxlX3BhdGgpCiAgICBibG9iID0gYnVja2V0LmdldF9ibG9iKGZpbGVfcGF0aCkKICAgIGlmIG5vdCBibG9iOgogICAgICAgIHByaW50KCdDb3VsZG50IGZpbmQgZmlsZTonLCBmaWxlX3BhdGgpCiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGZpbGVfY29udGVudF9zdHJpbmcgPSBibG9iLmRvd25sb2FkX2FzX3N0cmluZygpCiAgICBwYXJzZWRfZmlsZSA9IGpzb24ubG9hZHMoZmlsZV9jb250ZW50X3N0cmluZykKICAgIHJldHVybiBwYXJzZWRfZmlsZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdGVkX2NvbXBsZXRpb25zID0gIAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">KQogICAgCiAgICA=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAnZHVwbGljYXRlcycgaW4gcmVwb3J0X2VudHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXNbJ2lzRHVwbGljYXRlJ10gPSBUcnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfcGF0aCA9IHJlc3VsdHNfZGlyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -479,9 +473,9 @@
         <entry encoding="base64">JzwsJz53YQ==</entry>
         <entry>Wa</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
